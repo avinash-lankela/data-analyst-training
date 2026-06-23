@@ -1,124 +1,47 @@
-# CSV Sales Report Generator
+# Sales Analytics Using Pandas
 
-## Assignment Overview
+## Overview
 
-This project reads sales transaction data from CSV files and generates a detailed sales report using traditional Python programming techniques without using Pandas.
+This project analyzes sales data using Pandas and generates business insights such as revenue metrics, employee performance, regional performance, and data quality reports.
 
-The program processes sales records, calculates key business metrics, handles invalid data, and generates summary reports for management review.
+## Files
 
----
+* sales_data.csv
+* sales_data_bad.csv
+* sales_analytics.py
+* employee_report.csv
+* region_report.csv
 
-## Technologies Used
+## Tasks Completed
 
-* Python 3
-* CSV Module (Built-in Library)
+* Load CSV data into a DataFrame
+* Display dataset overview
+* Calculate total, average, highest, and lowest sales
+* Generate employee performance report
+* Generate regional performance report
+* Identify top salesperson
+* Display high-value transactions
+* Calculate revenue contribution percentage
+* Perform data quality checks
 
-No external libraries such as Pandas or NumPy were used.
+## Stretch Goals
 
----
-
-## Project Files
-
-### 1. sales_data.csv
-
-Contains valid sales transaction records.
-
-### 2. sales_data_bad.csv
-
-Contains valid records along with invalid and missing transaction amounts for data quality testing.
-
-### 3. csv_sales_report.py
-
-Main Python script that processes CSV files and generates reports.
-
-### 4. README.md
-
-Project documentation.
-
----
-
-## Features Implemented
-
-### Core Requirements
-
-* Read CSV file and store records
-* Calculate Total Revenue
-* Calculate Average Transaction Amount
-* Generate Sales by Employee Report
-* Generate Sales by Region Report
-* Determine Top Salesperson
-* Find Largest Transaction
-* Display Transactions Above $1000
-
-### Data Quality Handling
-
-The program detects and skips:
-
-* Missing transaction amounts
-* Invalid transaction amounts (non-numeric values)
-
-Processing continues without terminating the program.
-
-### Stretch Goals Completed
-
-* Revenue Contribution Percentage by Salesperson
-* Highest Revenue Region
-* Employees Sorted by Revenue (Descending Order)
-
----
+* Revenue category classification
+* Pivot table generation
+* Export reports to CSV files
 
 ## How to Run
 
-Open terminal in the project folder and execute:
-
 ```bash
-python csv_sales_report.py
+python sales_analytics.py
 ```
 
-or
+## Output
 
-```bash
-python3 csv_sales_report.py
-```
+The program generates:
 
----
-
-## Sample Output
-
-The program displays:
-
-* Total Revenue
-* Average Transaction Amount
-* Sales by Employee
-* Sales by Region
-* Top Salesperson
-* Highest Revenue Region
-* Largest Transaction
-* Transactions Above $1000
-* Revenue Contribution Percentage
-* Employees Sorted by Revenue
-
----
-
-## Learning Outcomes
-
-Through this assignment, the following Python concepts were practiced:
-
-* File Handling
-* CSV Processing
-* Dictionaries
-* Loops
-* Conditional Statements
-* Exception Handling
-* Data Aggregation
-* Sorting and Reporting
-
----
-
-## Repository
-
-data-analyst-training
-
-## Commit Message
-
-Completed Assignment 3 - CSV Sales Report Generator
+* Employee Revenue Report
+* Regional Revenue Report
+* High Value Transactions Report
+* employee_report.csv
+* region_report.csv
