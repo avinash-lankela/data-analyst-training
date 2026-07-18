@@ -1,0 +1,1021 @@
+Customer_ID,Age,Gender,Region,Tenure_Months,Contract_Type,Monthly_Charges,Total_Charges,Support_Calls,Payment_Method,Has_Internet,Has_Premium,Churn
+CUST0001,58,Male,North,36,Monthly,38.14,1373.04,1.0,PayPal,Yes,No,Yes
+CUST0002,20,Male,North,28,Monthly,98.26,2751.28,8.0,Credit Card,No,Yes,No
+CUST0003,46,Female,North,21,Annual,64.23,1348.83,2.0,Credit Card,No,Yes,No
+CUST0004,23,Female,North,46,Two-Year,98.48,4530.08,0.0,PayPal,No,Yes,No
+CUST0005,42,Male,East,47,Annual,111.59,5244.73,0.0,PayPal,Yes,No,Yes
+CUST0006,23,Male,North,49,Monthly,102.64,5029.36,5.0,Credit Card,No,No,Yes
+CUST0007,31,Female,North,22,Annual,51.83,1140.26,7.0,Bank Transfer,No,Yes,Yes
+CUST0008,61,Female,North,30,Two-Year,124.66,3739.8,6.0,Bank Transfer,Yes,Yes,No
+CUST0009,54,Female,South,64,Monthly,138.89,8888.96,7.0,Credit Card,No,Yes,Yes
+CUST0010,33,Female,West,52,Monthly,149.65,7781.8,2.0,PayPal,No,Yes,No
+CUST0011,66,Male,North,20,Annual,122.97,2459.4,6.0,PayPal,Yes,No,Yes
+CUST0012,42,Female,East,71,Two-Year,21.49,1525.79,1.0,PayPal,No,No,No
+CUST0013,25,Female,West,21,Monthly,144.0,3024.0,4.0,PayPal,Yes,Yes,No
+CUST0014,58,Female,South,20,Monthly,41.0,820.0,8.0,Credit Card,No,No,Yes
+CUST0015,19,Male,East,40,Monthly,51.31,2052.4,1.0,Credit Card,No,Yes,Yes
+CUST0016,66,Male,South,61,Two-Year,41.47,2529.67,8.0,PayPal,No,Yes,No
+CUST0017,52,Male,East,52,Two-Year,104.48,5432.96,7.0,PayPal,No,Yes,No
+CUST0018,33,Male,North,44,Monthly,92.01,4048.44,3.0,Credit Card,Yes,Yes,No
+CUST0019,32,Male,North,43,Monthly,50.94,2190.42,7.0,Credit Card,Yes,No,Yes
+CUST0020,33,Female,West,25,Monthly,105.67,2641.75,5.0,Bank Transfer,No,No,Yes
+CUST0021,64,Male,North,8,Monthly,64.11,512.88,1.0,Credit Card,Yes,Yes,Yes
+CUST0022,52,Female,South,55,Monthly,80.14,4407.7,1.0,Bank Transfer,Yes,Yes,Yes
+CUST0023,59,Male,North,31,Monthly,83.13,2577.03,3.0,Bank Transfer,Yes,Yes,Yes
+CUST0024,42,Male,West,34,Two-Year,122.07,4150.38,4.0,Bank Transfer,No,Yes,No
+CUST0025,30,Female,South,8,Annual,90.49,723.92,5.0,Credit Card,Yes,No,Yes
+CUST0026,50,Male,North,66,Monthly,44.16,2914.56,1.0,PayPal,Yes,No,No
+CUST0027,25,Male,North,11,Monthly,95.88,1054.68,8.0,Bank Transfer,No,Yes,Yes
+CUST0028,60,Female,South,34,Monthly,107.32,3648.88,4.0,Bank Transfer,No,Yes,Yes
+CUST0029,18,Female,North,10,Annual,85.77,857.7,2.0,Bank Transfer,Yes,Yes,No
+CUST0030,41,Female,South,57,Two-Year,111.46,6353.22,8.0,Credit Card,No,Yes,Yes
+CUST0031,26,Female,North,14,Annual,40.21,562.94,4.0,PayPal,Yes,No,No
+CUST0032,31,Female,West,33,Two-Year,129.99,4289.67,1.0,PayPal,No,No,No
+CUST0033,20,Male,East,17,Annual,54.05,918.85,7.0,PayPal,No,Yes,Yes
+CUST0034,25,Male,South,70,Monthly,68.0,4760.0,8.0,Credit Card,No,Yes,No
+CUST0035,20,Female,East,6,Two-Year,47.31,283.86,3.0,PayPal,Yes,No,No
+CUST0036,67,Female,South,31,Two-Year,146.91,4554.21,2.0,Bank Transfer,Yes,Yes,No
+CUST0037,65,Female,West,32,Monthly,122.36,3915.52,1.0,Bank Transfer,Yes,No,Yes
+CUST0038,32,Male,West,45,Monthly,123.39,5552.55,3.0,Credit Card,Yes,Yes,Yes
+CUST0039,43,Female,East,9,Two-Year,56.29,506.61,8.0,Bank Transfer,No,Yes,No
+CUST0040,25,Female,South,34,Monthly,97.55,3316.7,5.0,PayPal,No,No,Yes
+CUST0041,56,Male,West,25,Monthly,112.14,2803.5,0.0,PayPal,Yes,No,Yes
+CUST0042,45,Male,East,41,Annual,36.2,1484.2,4.0,PayPal,No,No,No
+CUST0043,38,Female,East,71,Monthly,74.66,5300.86,6.0,PayPal,Yes,No,Yes
+CUST0044,43,Male,East,37,Monthly,122.15,4519.55,5.0,Bank Transfer,No,No,No
+CUST0045,61,Male,West,22,Annual,56.89,1251.58,5.0,Credit Card,Yes,No,Yes
+CUST0046,32,Male,South,4,Monthly,147.91,591.64,1.0,Bank Transfer,No,Yes,Yes
+CUST0047,63,Female,West,52,Monthly,105.29,5475.08,0.0,Credit Card,No,Yes,Yes
+CUST0048,29,Female,North,72,Monthly,130.28,9380.16,7.0,Credit Card,No,No,Yes
+CUST0049,66,Female,West,71,Monthly,40.69,2888.99,7.0,Bank Transfer,No,Yes,Yes
+CUST0050,58,Female,West,31,Monthly,30.07,932.17,4.0,Credit Card,No,No,Yes
+CUST0051,38,Male,South,20,Monthly,110.21,2204.2,3.0,Credit Card,No,No,No
+CUST0052,39,Female,West,8,Monthly,74.62,596.96,0.0,PayPal,No,No,No
+CUST0053,18,Female,East,50,Two-Year,143.95,7197.5,6.0,PayPal,Yes,No,No
+CUST0054,32,Female,West,63,Monthly,63.7,4013.1,6.0,PayPal,Yes,No,No
+CUST0055,26,Male,West,4,Monthly,75.72,302.88,7.0,Credit Card,Yes,No,Yes
+CUST0056,42,Female,South,59,Monthly,118.96,7018.64,6.0,Bank Transfer,No,No,No
+CUST0057,23,Female,North,70,Monthly,143.75,10062.5,3.0,PayPal,Yes,Yes,Yes
+CUST0058,66,Male,South,26,Two-Year,100.77,2620.02,3.0,Credit Card,No,Yes,No
+CUST0059,54,Male,West,33,Annual,41.81,1379.73,1.0,Credit Card,No,Yes,Yes
+CUST0060,55,Male,East,49,Monthly,,,,,Yes,Yes,Yes
+CUST0061,62,Female,North,6,Monthly,75.69,454.14,5.0,Credit Card,No,Yes,Yes
+CUST0062,44,Female,North,56,Two-Year,102.63,5747.28,7.0,PayPal,Yes,No,Yes
+CUST0063,29,Female,West,60,Monthly,115.03,6901.8,4.0,Bank Transfer,Yes,Yes,No
+CUST0064,35,Female,South,60,Annual,106.86,6411.6,5.0,Credit Card,No,No,Yes
+CUST0065,29,Female,South,46,Annual,64.24,2955.04,4.0,PayPal,Yes,Yes,No
+CUST0066,23,Male,West,63,Annual,51.24,3228.12,7.0,PayPal,No,No,No
+CUST0067,68,Male,North,38,Monthly,109.93,4177.34,4.0,PayPal,No,No,Yes
+CUST0068,53,Female,West,71,Monthly,111.37,7907.27,4.0,Bank Transfer,No,Yes,No
+CUST0069,25,Male,East,16,Annual,143.61,2297.76,2.0,Credit Card,Yes,No,Yes
+CUST0070,35,Female,North,25,Monthly,66.91,1672.75,4.0,Credit Card,Yes,No,No
+CUST0071,20,Male,East,17,Annual,117.86,2003.62,1.0,Credit Card,No,No,No
+CUST0072,48,Female,East,24,Two-Year,52.82,1267.68,7.0,Credit Card,Yes,No,Yes
+CUST0073,49,Male,North,20,Monthly,93.17,1863.4,4.0,Credit Card,Yes,Yes,Yes
+CUST0074,53,Female,South,67,Monthly,138.11,9253.37,4.0,PayPal,No,No,No
+CUST0075,54,Male,North,27,Annual,54.4,1468.8,1.0,Credit Card,Yes,Yes,No
+CUST0076,53,Male,South,1,Monthly,109.62,109.62,7.0,Bank Transfer,Yes,Yes,Yes
+CUST0077,36,Female,West,10,Annual,,,,,Yes,Yes,No
+CUST0078,59,Male,East,19,Monthly,41.57,789.83,4.0,PayPal,No,No,Yes
+CUST0079,25,Female,East,52,Two-Year,85.06,4423.12,7.0,Bank Transfer,Yes,Yes,No
+CUST0080,45,Female,East,4,Monthly,145.05,580.2,0.0,PayPal,No,Yes,Yes
+CUST0081,66,Male,West,67,Annual,139.09,9319.03,2.0,PayPal,No,No,No
+CUST0082,23,Female,East,53,Monthly,107.12,5677.36,2.0,Bank Transfer,No,No,No
+CUST0083,36,Female,North,59,Monthly,52.81,3115.79,1.0,Bank Transfer,Yes,No,No
+CUST0084,44,Male,South,67,Monthly,118.34,7928.78,7.0,Credit Card,Yes,No,Yes
+CUST0085,53,Male,East,57,Two-Year,83.01,4731.57,0.0,PayPal,Yes,Yes,No
+CUST0086,37,Male,West,12,Monthly,129.38,1552.56,1.0,Bank Transfer,Yes,Yes,Yes
+CUST0087,49,Female,East,54,Two-Year,147.43,7961.22,3.0,Bank Transfer,Yes,No,No
+CUST0088,30,Male,North,36,Annual,131.07,4718.52,5.0,PayPal,No,Yes,No
+CUST0089,36,Female,West,20,Monthly,82.96,1659.2,5.0,PayPal,No,No,No
+CUST0090,38,Male,South,50,Monthly,120.82,6041.0,0.0,Bank Transfer,No,No,Yes
+CUST0091,42,Male,West,5,Monthly,145.5,727.5,5.0,Credit Card,No,Yes,Yes
+CUST0092,51,Female,North,19,Monthly,105.12,1997.28,2.0,Credit Card,No,No,No
+CUST0093,39,Female,North,43,Two-Year,131.71,5663.53,6.0,Bank Transfer,No,Yes,No
+CUST0094,57,Male,South,37,Two-Year,117.08,4331.96,6.0,Credit Card,Yes,No,No
+CUST0095,28,Female,North,6,Monthly,27.3,163.8,5.0,Bank Transfer,No,Yes,Yes
+CUST0096,33,Female,South,22,Monthly,99.23,2183.06,6.0,PayPal,Yes,No,Yes
+CUST0097,55,Male,South,60,Annual,,,,,No,Yes,No
+CUST0098,22,Female,East,39,Annual,75.16,2931.24,4.0,Bank Transfer,No,Yes,No
+CUST0099,42,Female,North,31,Monthly,66.66,2066.46,4.0,PayPal,No,Yes,Yes
+CUST0100,60,Female,East,2,Annual,109.15,218.3,0.0,PayPal,No,No,Yes
+CUST0101,67,Male,East,29,Annual,100.72,2920.88,2.0,PayPal,Yes,Yes,Yes
+CUST0102,37,Female,North,47,Annual,,,,,No,Yes,No
+CUST0103,30,Male,East,68,Annual,55.43,3769.24,2.0,Bank Transfer,No,No,No
+CUST0104,65,Female,North,60,Two-Year,38.3,2298.0,3.0,PayPal,No,No,No
+CUST0105,23,Female,North,34,Annual,79.12,2690.08,4.0,PayPal,No,No,No
+CUST0106,24,Male,West,4,Annual,142.61,570.44,5.0,PayPal,Yes,Yes,Yes
+CUST0107,58,Female,East,53,Monthly,25.9,1372.7,0.0,Bank Transfer,No,Yes,No
+CUST0108,24,Male,South,50,Monthly,107.16,5358.0,8.0,Bank Transfer,Yes,No,No
+CUST0109,59,Male,West,53,Two-Year,56.37,2987.61,5.0,Credit Card,No,No,No
+CUST0110,33,Female,North,48,Annual,147.12,7061.76,5.0,Credit Card,No,No,Yes
+CUST0111,30,Male,West,12,Annual,103.42,1241.04,0.0,Credit Card,No,Yes,Yes
+CUST0112,26,Male,North,71,Monthly,48.07,3412.97,3.0,Bank Transfer,Yes,Yes,Yes
+CUST0113,35,Male,South,70,Monthly,42.68,2987.6,0.0,Credit Card,Yes,No,No
+CUST0114,68,Male,East,3,Monthly,26.81,80.43,6.0,PayPal,Yes,Yes,Yes
+CUST0115,48,Female,East,66,Annual,78.76,5198.16,3.0,PayPal,Yes,No,No
+CUST0116,47,Male,North,62,Two-Year,75.42,4676.04,1.0,Bank Transfer,No,Yes,No
+CUST0117,23,Female,South,9,Monthly,101.16,910.44,8.0,PayPal,No,No,Yes
+CUST0118,56,Female,West,65,Annual,32.89,2137.85,1.0,PayPal,Yes,No,No
+CUST0119,46,Male,West,44,Two-Year,71.83,3160.52,1.0,Bank Transfer,No,No,No
+CUST0120,60,Female,East,20,Annual,81.65,1633.0,1.0,Credit Card,Yes,No,No
+CUST0121,24,Female,South,72,Monthly,144.36,10393.92,8.0,Bank Transfer,Yes,No,No
+CUST0122,40,Female,North,37,Annual,65.71,2431.27,8.0,Credit Card,Yes,No,No
+CUST0123,32,Male,East,72,Monthly,119.14,8578.08,3.0,Bank Transfer,Yes,No,Yes
+CUST0124,19,Male,East,40,Two-Year,65.63,2625.2,2.0,Credit Card,No,Yes,No
+CUST0125,27,Male,North,68,Monthly,74.58,5071.44,5.0,Credit Card,No,No,Yes
+CUST0126,64,Female,North,7,Monthly,118.08,826.56,0.0,PayPal,Yes,No,Yes
+CUST0127,46,Female,West,57,Monthly,48.02,2737.14,8.0,Credit Card,No,No,No
+CUST0128,25,Female,West,68,Annual,25.9,1761.2,6.0,PayPal,Yes,Yes,No
+CUST0129,31,Female,South,18,Annual,57.63,1037.34,1.0,Credit Card,No,No,Yes
+CUST0130,29,Male,West,69,Annual,85.03,5867.07,5.0,Credit Card,No,Yes,No
+CUST0131,45,Male,West,10,Two-Year,94.85,948.5,6.0,PayPal,No,No,Yes
+CUST0132,25,Female,North,42,Monthly,143.19,6013.98,7.0,PayPal,No,Yes,Yes
+CUST0133,45,Male,South,56,Annual,88.12,4934.72,6.0,Bank Transfer,No,Yes,Yes
+CUST0134,39,Male,North,66,Annual,88.98,5872.68,3.0,Bank Transfer,No,Yes,No
+CUST0135,33,Male,South,33,Monthly,98.31,3244.23,1.0,Credit Card,No,No,No
+CUST0136,66,Female,East,41,Monthly,28.88,1184.08,7.0,PayPal,No,No,Yes
+CUST0137,55,Male,East,65,Monthly,,,,,No,No,No
+CUST0138,22,Male,West,60,Annual,144.05,8643.0,0.0,Bank Transfer,Yes,No,No
+CUST0139,56,Female,South,8,Monthly,125.43,1003.44,5.0,PayPal,Yes,Yes,Yes
+CUST0140,20,Male,West,57,Annual,,,,,No,No,No
+CUST0141,44,Female,North,43,Monthly,32.29,1388.47,6.0,Bank Transfer,No,Yes,No
+CUST0142,39,Male,South,45,Monthly,105.29,4738.05,6.0,Credit Card,Yes,No,Yes
+CUST0143,53,Female,East,17,Annual,127.76,2171.92,8.0,Credit Card,No,No,Yes
+CUST0144,19,Female,East,24,Two-Year,64.43,1546.32,7.0,Credit Card,Yes,Yes,No
+CUST0145,27,Male,East,13,Annual,90.17,1172.21,8.0,Credit Card,No,Yes,Yes
+CUST0146,56,Female,South,21,Monthly,110.07,2311.47,2.0,PayPal,No,Yes,Yes
+CUST0147,44,Female,South,57,Annual,117.81,6715.17,7.0,Credit Card,Yes,No,No
+CUST0148,69,Female,South,48,Annual,94.15,4519.2,7.0,Bank Transfer,No,No,No
+CUST0149,50,Female,South,26,Two-Year,37.99,987.74,4.0,Credit Card,No,No,No
+CUST0150,53,Male,North,37,Monthly,40.84,1511.08,7.0,PayPal,Yes,No,Yes
+CUST0151,23,Male,West,45,Two-Year,73.94,3327.3,6.0,PayPal,No,Yes,No
+CUST0152,42,Male,East,29,Monthly,141.01,4089.29,5.0,Credit Card,Yes,Yes,Yes
+CUST0153,36,Female,South,61,Monthly,20.68,1261.48,1.0,Credit Card,No,Yes,Yes
+CUST0154,27,Female,North,37,Monthly,35.84,1326.08,3.0,Bank Transfer,No,Yes,No
+CUST0155,25,Female,North,66,Annual,113.41,7485.06,4.0,Bank Transfer,Yes,No,No
+CUST0156,33,Female,South,11,Annual,66.88,735.68,8.0,PayPal,Yes,No,Yes
+CUST0157,48,Male,West,48,Monthly,22.11,1061.28,1.0,Bank Transfer,Yes,Yes,No
+CUST0158,67,Female,South,6,Monthly,64.01,384.06,2.0,PayPal,No,No,No
+CUST0159,58,Male,South,9,Annual,142.67,1284.03,0.0,Bank Transfer,Yes,Yes,Yes
+CUST0160,68,Male,North,41,Two-Year,87.0,3567.0,8.0,Bank Transfer,No,Yes,No
+CUST0161,66,Male,East,46,Two-Year,26.21,1205.66,5.0,Bank Transfer,Yes,No,No
+CUST0162,45,Female,West,50,Monthly,44.29,2214.5,7.0,Bank Transfer,No,Yes,No
+CUST0163,64,Female,North,56,Annual,126.9,7106.4,8.0,Bank Transfer,No,Yes,No
+CUST0164,23,Female,East,40,Monthly,113.3,4532.0,2.0,PayPal,No,No,No
+CUST0165,46,Male,East,56,Monthly,147.4,8254.4,0.0,Credit Card,No,No,Yes
+CUST0166,50,Male,North,19,Two-Year,108.15,2054.85,7.0,Credit Card,Yes,Yes,No
+CUST0167,33,Female,East,50,Two-Year,24.21,1210.5,2.0,PayPal,No,No,No
+CUST0168,41,Female,North,18,Annual,71.74,1291.32,4.0,Credit Card,Yes,Yes,No
+CUST0169,65,Male,West,67,Monthly,93.02,6232.34,4.0,Bank Transfer,No,Yes,Yes
+CUST0170,57,Female,West,26,Monthly,130.87,3402.62,7.0,Credit Card,No,Yes,Yes
+CUST0171,69,Female,East,9,Annual,57.75,519.75,4.0,Credit Card,Yes,No,No
+CUST0172,50,Male,North,26,Annual,50.78,1320.28,7.0,Credit Card,No,No,Yes
+CUST0173,47,Male,North,9,Monthly,149.95,1349.55,7.0,PayPal,No,No,Yes
+CUST0174,70,Male,South,41,Annual,78.5,3218.5,8.0,Bank Transfer,Yes,Yes,Yes
+CUST0175,67,Male,West,65,Two-Year,,,,,Yes,No,No
+CUST0176,28,Male,East,29,Monthly,142.32,4127.28,4.0,Credit Card,No,Yes,Yes
+CUST0177,58,Female,South,39,Annual,32.15,1253.85,2.0,PayPal,Yes,Yes,No
+CUST0178,60,Female,North,4,Monthly,143.31,573.24,4.0,PayPal,Yes,No,Yes
+CUST0179,57,Male,West,70,Monthly,144.36,10105.2,7.0,Credit Card,No,No,No
+CUST0180,47,Male,North,21,Monthly,82.95,1741.95,3.0,Bank Transfer,Yes,No,Yes
+CUST0181,63,Female,East,52,Monthly,68.17,3544.84,8.0,Credit Card,No,Yes,Yes
+CUST0182,47,Male,East,58,Monthly,32.59,1890.22,4.0,Bank Transfer,No,Yes,Yes
+CUST0183,28,Female,East,25,Annual,84.77,2119.25,8.0,Bank Transfer,No,No,No
+CUST0184,49,Male,North,51,Annual,145.67,7429.17,3.0,PayPal,No,Yes,No
+CUST0185,21,Female,West,61,Monthly,21.06,1284.66,1.0,Bank Transfer,Yes,No,Yes
+CUST0186,64,Female,West,47,Monthly,26.65,1252.55,8.0,Credit Card,No,No,No
+CUST0187,22,Female,West,71,Monthly,148.58,10549.18,1.0,Credit Card,Yes,No,No
+CUST0188,41,Female,East,19,Monthly,86.19,1637.61,8.0,Credit Card,Yes,Yes,Yes
+CUST0189,26,Female,West,67,Monthly,98.81,6620.27,8.0,Credit Card,No,No,Yes
+CUST0190,28,Female,East,44,Annual,86.26,3795.44,7.0,PayPal,No,No,Yes
+CUST0191,70,Male,East,43,Annual,147.39,6337.77,4.0,PayPal,Yes,No,Yes
+CUST0192,34,Male,North,62,Monthly,101.77,6309.74,6.0,Credit Card,Yes,Yes,No
+CUST0193,54,Male,South,3,Monthly,74.44,223.32,6.0,PayPal,Yes,No,No
+CUST0194,50,Female,North,18,Annual,92.92,1672.56,7.0,PayPal,No,No,No
+CUST0195,29,Female,East,70,Monthly,120.36,8425.2,4.0,PayPal,No,Yes,Yes
+CUST0196,33,Female,East,29,Two-Year,147.69,4283.01,4.0,PayPal,Yes,No,No
+CUST0197,38,Female,East,72,Two-Year,123.4,8884.8,4.0,Bank Transfer,Yes,No,No
+CUST0198,43,Female,South,38,Monthly,144.19,5479.22,1.0,Bank Transfer,No,No,No
+CUST0199,65,Female,South,26,Two-Year,,,,,No,Yes,No
+CUST0200,24,Male,South,7,Annual,89.04,623.28,3.0,Credit Card,Yes,No,No
+CUST0201,39,Female,North,18,Monthly,91.55,1647.9,2.0,Bank Transfer,No,No,No
+CUST0202,59,Male,East,42,Monthly,27.69,1162.98,1.0,PayPal,Yes,Yes,Yes
+CUST0203,29,Female,South,5,Two-Year,71.61,358.05,7.0,Credit Card,No,Yes,Yes
+CUST0204,18,Female,North,43,Monthly,148.58,6388.94,8.0,PayPal,No,Yes,No
+CUST0205,50,Female,East,25,Two-Year,62.99,1574.75,7.0,PayPal,No,Yes,No
+CUST0206,18,Female,East,25,Monthly,131.3,3282.5,6.0,Bank Transfer,No,Yes,Yes
+CUST0207,43,Male,South,18,Monthly,141.66,2549.88,0.0,Bank Transfer,No,Yes,Yes
+CUST0208,46,Female,East,39,Annual,94.47,3684.33,4.0,PayPal,No,Yes,No
+CUST0209,21,Male,West,40,Monthly,109.19,4367.6,4.0,PayPal,Yes,No,Yes
+CUST0210,41,Male,South,18,Monthly,79.15,1424.7,5.0,Bank Transfer,No,Yes,Yes
+CUST0211,66,Male,North,68,Monthly,,,,,Yes,Yes,No
+CUST0212,53,Male,South,22,Monthly,87.64,1928.08,1.0,PayPal,Yes,No,No
+CUST0213,23,Female,North,59,Monthly,74.01,4366.59,0.0,PayPal,No,No,No
+CUST0214,64,Male,West,33,Two-Year,116.95,3859.35,1.0,Credit Card,No,No,No
+CUST0215,62,Male,North,9,Two-Year,81.37,732.33,4.0,Bank Transfer,Yes,Yes,No
+CUST0216,67,Female,East,49,Monthly,139.22,6821.78,6.0,Bank Transfer,Yes,Yes,Yes
+CUST0217,59,Female,North,23,Two-Year,71.1,1635.3,2.0,PayPal,Yes,Yes,No
+CUST0218,66,Male,East,60,Annual,90.78,5446.8,8.0,Bank Transfer,Yes,Yes,No
+CUST0219,47,Female,South,36,Monthly,133.78,4816.08,1.0,Credit Card,No,Yes,No
+CUST0220,33,Male,North,13,Annual,78.04,1014.52,0.0,Credit Card,Yes,No,No
+CUST0221,46,Male,South,8,Monthly,149.15,1193.2,3.0,PayPal,No,No,Yes
+CUST0222,33,Female,South,67,Monthly,59.07,3957.69,0.0,PayPal,Yes,No,No
+CUST0223,53,Female,North,45,Two-Year,107.27,4827.15,8.0,Bank Transfer,No,No,Yes
+CUST0224,27,Female,West,24,Annual,81.56,1957.44,3.0,Bank Transfer,Yes,No,No
+CUST0225,21,Female,West,72,Annual,70.49,5075.28,4.0,Credit Card,No,Yes,No
+CUST0226,46,Female,North,69,Annual,44.76,3088.44,4.0,Bank Transfer,Yes,Yes,No
+CUST0227,30,Male,West,27,Two-Year,63.29,1708.83,0.0,Credit Card,Yes,Yes,No
+CUST0228,65,Female,South,27,Monthly,51.11,1379.97,5.0,Bank Transfer,No,No,Yes
+CUST0229,52,Female,East,34,Monthly,134.77,4582.18,7.0,Credit Card,No,No,No
+CUST0230,31,Female,East,53,Monthly,132.33,7013.49,2.0,Credit Card,No,No,No
+CUST0231,36,Male,South,43,Monthly,94.07,4045.01,3.0,Bank Transfer,No,No,No
+CUST0232,66,Female,West,59,Monthly,123.35,7277.65,2.0,Credit Card,No,Yes,No
+CUST0233,52,Male,North,10,Two-Year,106.87,1068.7,0.0,Bank Transfer,Yes,Yes,No
+CUST0234,22,Male,North,28,Annual,68.52,1918.56,7.0,PayPal,No,Yes,No
+CUST0235,18,Female,North,3,Annual,55.72,167.16,4.0,Credit Card,No,Yes,Yes
+CUST0236,24,Male,South,31,Monthly,,,,,No,Yes,No
+CUST0237,41,Female,West,32,Two-Year,49.36,1579.52,1.0,PayPal,Yes,Yes,No
+CUST0238,43,Female,West,71,Monthly,102.78,7297.38,2.0,Credit Card,No,No,Yes
+CUST0239,59,Female,North,68,Two-Year,49.87,3391.16,7.0,Bank Transfer,Yes,Yes,No
+CUST0240,61,Female,North,23,Two-Year,60.88,1400.24,3.0,PayPal,Yes,No,No
+CUST0241,22,Female,South,31,Annual,130.43,4043.33,8.0,Bank Transfer,No,Yes,No
+CUST0242,68,Male,East,7,Monthly,50.18,351.26,1.0,Bank Transfer,No,No,No
+CUST0243,19,Female,West,63,Monthly,91.89,5789.07,6.0,Bank Transfer,Yes,No,No
+CUST0244,23,Female,South,10,Monthly,40.05,400.5,2.0,PayPal,No,No,Yes
+CUST0245,41,Male,North,1,Two-Year,77.82,77.82,4.0,Credit Card,Yes,Yes,Yes
+CUST0246,29,Female,West,72,Annual,73.05,5259.6,0.0,Credit Card,No,Yes,No
+CUST0247,56,Female,West,2,Monthly,70.41,140.82,1.0,PayPal,Yes,Yes,Yes
+CUST0248,61,Female,South,18,Monthly,54.89,988.02,2.0,Credit Card,Yes,No,No
+CUST0249,35,Female,East,62,Annual,66.95,4150.9,3.0,PayPal,No,Yes,No
+CUST0250,47,Male,South,39,Monthly,71.44,2786.16,6.0,Bank Transfer,No,No,No
+CUST0251,45,Male,East,42,Annual,110.39,4636.38,7.0,Bank Transfer,Yes,No,Yes
+CUST0252,38,Female,West,32,Monthly,56.44,1806.08,6.0,Bank Transfer,Yes,Yes,Yes
+CUST0253,55,Male,North,60,Two-Year,47.25,2835.0,4.0,PayPal,Yes,No,No
+CUST0254,61,Female,South,39,Monthly,105.63,4119.57,6.0,Bank Transfer,Yes,No,Yes
+CUST0255,56,Female,West,69,Annual,139.65,9635.85,6.0,PayPal,Yes,No,Yes
+CUST0256,62,Male,North,32,Annual,66.15,2116.8,0.0,PayPal,No,No,No
+CUST0257,68,Female,North,2,Monthly,48.86,97.72,8.0,PayPal,Yes,No,No
+CUST0258,41,Female,West,65,Monthly,149.7,9730.5,7.0,Credit Card,No,No,Yes
+CUST0259,23,Male,South,45,Monthly,79.19,3563.55,3.0,PayPal,No,No,No
+CUST0260,48,Male,West,58,Monthly,59.03,3423.74,1.0,Credit Card,No,Yes,Yes
+CUST0261,61,Male,South,67,Monthly,40.82,2734.94,8.0,Bank Transfer,No,Yes,No
+CUST0262,69,Female,South,24,Annual,76.18,1828.32,0.0,PayPal,Yes,No,No
+CUST0263,55,Female,West,1,Annual,46.75,46.75,1.0,PayPal,Yes,Yes,Yes
+CUST0264,41,Female,South,59,Monthly,107.19,6324.21,7.0,PayPal,No,No,Yes
+CUST0265,57,Female,North,45,Monthly,79.52,3578.4,2.0,PayPal,No,Yes,No
+CUST0266,61,Male,East,16,Monthly,35.2,563.2,5.0,PayPal,Yes,No,No
+CUST0267,44,Male,West,55,Monthly,102.62,5644.1,2.0,PayPal,Yes,No,No
+CUST0268,36,Male,South,41,Two-Year,100.52,4121.32,5.0,Credit Card,No,Yes,No
+CUST0269,30,Female,West,53,Annual,74.03,3923.59,7.0,Bank Transfer,Yes,Yes,No
+CUST0270,54,Male,South,38,Monthly,49.23,1870.74,4.0,Credit Card,No,No,Yes
+CUST0271,53,Male,North,35,Annual,127.03,4446.05,5.0,PayPal,Yes,No,No
+CUST0272,52,Male,West,14,Annual,104.98,1469.72,3.0,Bank Transfer,Yes,No,No
+CUST0273,34,Female,North,57,Two-Year,35.26,2009.82,3.0,Credit Card,No,No,No
+CUST0274,28,Male,South,27,Two-Year,94.11,2540.97,8.0,Bank Transfer,Yes,No,No
+CUST0275,63,Female,East,35,Two-Year,86.87,3040.45,1.0,Credit Card,No,Yes,No
+CUST0276,35,Male,South,32,Monthly,61.87,1979.84,3.0,PayPal,No,No,No
+CUST0277,27,Female,West,49,Monthly,102.37,5016.13,1.0,Bank Transfer,No,No,No
+CUST0278,47,Female,East,1,Two-Year,,,,,No,No,No
+CUST0279,22,Female,South,55,Two-Year,84.31,4637.05,5.0,Bank Transfer,No,Yes,No
+CUST0280,54,Female,East,7,Monthly,101.4,709.8,7.0,Credit Card,Yes,Yes,Yes
+CUST0281,46,Female,North,55,Monthly,,,,,No,Yes,No
+CUST0282,35,Male,East,33,Monthly,106.39,3510.87,2.0,Credit Card,No,No,Yes
+CUST0283,64,Male,West,12,Annual,20.14,241.68,7.0,Credit Card,Yes,Yes,No
+CUST0284,51,Female,North,2,Annual,126.22,252.44,6.0,PayPal,Yes,No,Yes
+CUST0285,22,Male,West,12,Annual,33.32,399.84,5.0,Bank Transfer,No,Yes,No
+CUST0286,42,Male,South,9,Annual,21.1,189.9,2.0,Bank Transfer,No,Yes,Yes
+CUST0287,58,Male,West,57,Two-Year,31.27,1782.39,1.0,Credit Card,Yes,No,No
+CUST0288,40,Female,East,18,Monthly,103.8,1868.4,3.0,PayPal,No,Yes,Yes
+CUST0289,60,Female,South,67,Annual,44.52,2982.84,6.0,Bank Transfer,Yes,Yes,No
+CUST0290,49,Female,North,31,Monthly,97.21,3013.51,8.0,Credit Card,No,No,Yes
+CUST0291,26,Female,West,47,Annual,42.46,1995.62,7.0,Credit Card,Yes,Yes,Yes
+CUST0292,18,Female,South,6,Two-Year,143.33,859.98,6.0,PayPal,No,No,Yes
+CUST0293,45,Female,North,69,Annual,39.85,2749.65,1.0,Bank Transfer,Yes,Yes,No
+CUST0294,69,Male,East,51,Annual,119.22,6080.22,1.0,Bank Transfer,No,Yes,No
+CUST0295,21,Male,North,56,Monthly,99.6,5577.6,0.0,Bank Transfer,Yes,Yes,Yes
+CUST0296,18,Male,North,21,Monthly,65.07,1366.47,8.0,PayPal,No,Yes,Yes
+CUST0297,41,Male,East,16,Annual,23.82,381.12,6.0,Bank Transfer,Yes,No,No
+CUST0298,63,Male,West,59,Annual,27.21,1605.39,2.0,Bank Transfer,Yes,No,No
+CUST0299,67,Male,North,30,Annual,20.33,609.9,0.0,Credit Card,Yes,No,No
+CUST0300,41,Female,South,23,Two-Year,,,,,No,Yes,Yes
+CUST0301,38,Male,West,41,Monthly,30.13,1235.33,5.0,Credit Card,Yes,Yes,Yes
+CUST0302,32,Male,West,9,Two-Year,132.58,1193.22,4.0,Bank Transfer,Yes,No,No
+CUST0303,18,Female,South,38,Annual,59.51,2261.38,3.0,Bank Transfer,No,No,No
+CUST0304,67,Male,South,20,Monthly,73.3,1466.0,3.0,PayPal,No,Yes,No
+CUST0305,39,Male,West,40,Monthly,88.88,3555.2,3.0,Bank Transfer,No,Yes,No
+CUST0306,27,Female,North,6,Two-Year,136.65,819.9,8.0,Bank Transfer,No,No,No
+CUST0307,65,Male,North,65,Monthly,126.6,8229.0,1.0,PayPal,Yes,No,No
+CUST0308,60,Male,South,38,Monthly,60.95,2316.1,6.0,PayPal,No,No,Yes
+CUST0309,46,Female,South,10,Two-Year,37.69,376.9,1.0,Credit Card,Yes,Yes,No
+CUST0310,46,Female,East,53,Monthly,66.58,3528.74,3.0,Bank Transfer,No,No,Yes
+CUST0311,34,Male,North,21,Two-Year,59.55,1250.55,0.0,Credit Card,No,Yes,No
+CUST0312,23,Male,East,51,Annual,108.03,5509.53,4.0,Credit Card,Yes,No,Yes
+CUST0313,46,Male,North,60,Monthly,,,,,Yes,Yes,Yes
+CUST0314,26,Male,West,48,Annual,141.88,6810.24,1.0,PayPal,No,Yes,No
+CUST0315,19,Male,South,57,Two-Year,31.96,1821.72,5.0,Credit Card,Yes,No,No
+CUST0316,21,Male,West,51,Monthly,69.75,3557.25,6.0,Credit Card,No,Yes,No
+CUST0317,29,Female,East,58,Two-Year,24.5,1421.0,3.0,PayPal,No,No,No
+CUST0318,44,Female,North,12,Monthly,37.84,454.08,3.0,PayPal,Yes,Yes,Yes
+CUST0319,42,Female,West,70,Annual,64.72,4530.4,8.0,Bank Transfer,No,No,Yes
+CUST0320,29,Male,East,29,Monthly,,,,,No,No,Yes
+CUST0321,67,Male,South,13,Monthly,51.35,667.55,8.0,PayPal,Yes,Yes,Yes
+CUST0322,54,Female,East,23,Monthly,97.03,2231.69,5.0,PayPal,Yes,No,No
+CUST0323,54,Male,South,64,Annual,42.82,2740.48,0.0,Credit Card,Yes,Yes,No
+CUST0324,56,Male,North,68,Monthly,63.13,4292.84,3.0,Credit Card,No,Yes,Yes
+CUST0325,69,Female,North,3,Monthly,111.61,334.83,2.0,Credit Card,No,Yes,No
+CUST0326,41,Female,North,44,Monthly,37.74,1660.56,2.0,PayPal,No,No,No
+CUST0327,59,Female,South,72,Annual,140.75,10134.0,5.0,Credit Card,Yes,No,No
+CUST0328,37,Female,South,23,Annual,143.34,3296.82,6.0,PayPal,Yes,Yes,No
+CUST0329,56,Female,South,14,Two-Year,,,,,No,No,No
+CUST0330,28,Male,East,58,Monthly,47.26,2741.08,1.0,Bank Transfer,No,Yes,Yes
+CUST0331,64,Male,North,50,Monthly,74.55,3727.5,2.0,Bank Transfer,No,No,No
+CUST0332,40,Female,North,62,Annual,95.15,5899.3,3.0,Credit Card,No,Yes,No
+CUST0333,69,Male,East,3,Monthly,143.72,431.16,1.0,Bank Transfer,Yes,No,Yes
+CUST0334,28,Male,North,44,Annual,99.77,4389.88,7.0,PayPal,Yes,No,Yes
+CUST0335,59,Male,West,21,Monthly,63.04,1323.84,3.0,Bank Transfer,No,No,Yes
+CUST0336,37,Male,North,7,Monthly,91.46,640.22,7.0,Credit Card,Yes,No,Yes
+CUST0337,18,Female,North,38,Two-Year,101.26,3847.88,7.0,Credit Card,Yes,Yes,No
+CUST0338,31,Male,East,11,Monthly,35.02,385.22,6.0,Bank Transfer,No,No,Yes
+CUST0339,23,Female,South,48,Two-Year,68.02,3264.96,7.0,Credit Card,No,No,No
+CUST0340,47,Female,South,35,Annual,39.65,1387.75,1.0,Credit Card,No,No,Yes
+CUST0341,66,Male,North,50,Two-Year,74.42,3721.0,8.0,PayPal,No,Yes,No
+CUST0342,48,Female,North,51,Two-Year,112.86,5755.86,8.0,PayPal,Yes,Yes,No
+CUST0343,66,Female,South,22,Two-Year,125.1,2752.2,2.0,Credit Card,No,Yes,No
+CUST0344,61,Female,South,19,Two-Year,53.53,1017.07,1.0,Credit Card,No,No,No
+CUST0345,53,Female,East,67,Monthly,133.55,8947.85,8.0,Bank Transfer,Yes,No,Yes
+CUST0346,27,Male,North,14,Annual,33.13,463.82,4.0,PayPal,No,No,No
+CUST0347,34,Female,West,61,Monthly,,,,,No,Yes,No
+CUST0348,43,Female,South,7,Annual,139.71,977.97,5.0,Credit Card,No,No,Yes
+CUST0349,37,Female,West,13,Two-Year,49.63,645.19,4.0,PayPal,No,No,No
+CUST0350,35,Female,North,25,Monthly,138.75,3468.75,6.0,PayPal,No,No,Yes
+CUST0351,70,Male,South,9,Monthly,85.88,772.92,2.0,PayPal,Yes,Yes,Yes
+CUST0352,30,Male,North,32,Monthly,26.57,850.24,5.0,PayPal,Yes,No,No
+CUST0353,41,Female,West,16,Annual,51.45,823.2,7.0,PayPal,No,Yes,No
+CUST0354,48,Female,East,21,Two-Year,53.63,1126.23,1.0,Bank Transfer,Yes,No,No
+CUST0355,21,Male,South,29,Annual,108.1,3134.9,4.0,PayPal,No,Yes,Yes
+CUST0356,67,Male,West,17,Annual,98.15,1668.55,0.0,Credit Card,No,No,No
+CUST0357,63,Female,West,49,Two-Year,79.67,3903.83,3.0,Bank Transfer,No,No,Yes
+CUST0358,55,Male,North,66,Two-Year,145.64,9612.24,5.0,PayPal,No,No,No
+CUST0359,61,Male,West,9,Monthly,55.94,503.46,5.0,Bank Transfer,No,No,No
+CUST0360,30,Male,South,8,Two-Year,124.31,994.48,6.0,PayPal,No,Yes,Yes
+CUST0361,64,Male,West,38,Monthly,74.41,2827.58,6.0,PayPal,Yes,Yes,Yes
+CUST0362,39,Male,West,180,Annual,129.9,5975.4,8.0,Credit Card,No,Yes,No
+CUST0363,48,Male,East,72,Annual,43.8,3153.6,5.0,PayPal,Yes,Yes,No
+CUST0364,40,Male,East,54,Annual,63.07,3405.78,4.0,PayPal,No,No,No
+CUST0365,25,Female,North,10,Monthly,45.29,452.9,1.0,PayPal,No,No,No
+CUST0366,44,Male,South,18,Two-Year,64.55,1161.9,7.0,Credit Card,No,Yes,No
+CUST0367,67,Male,West,43,Annual,42.99,1848.57,0.0,Credit Card,No,No,No
+CUST0368,31,Male,South,63,Annual,121.37,7646.31,2.0,PayPal,No,No,No
+CUST0369,43,Female,West,50,Monthly,89.39,4469.5,5.0,Credit Card,No,Yes,Yes
+CUST0370,19,Male,South,29,Annual,64.77,1878.33,2.0,Credit Card,No,No,Yes
+CUST0371,28,Male,North,39,Two-Year,,,,,No,No,No
+CUST0372,61,Male,East,63,Monthly,,,,,Yes,Yes,Yes
+CUST0373,64,Male,South,3,Annual,41.97,125.91,5.0,PayPal,Yes,No,Yes
+CUST0374,58,Female,North,7,Annual,104.96,734.72,0.0,Credit Card,Yes,No,No
+CUST0375,46,Female,North,71,Monthly,111.24,7898.04,3.0,PayPal,Yes,No,Yes
+CUST0376,44,Male,East,18,Monthly,136.82,2462.76,8.0,PayPal,Yes,No,Yes
+CUST0377,25,Male,West,26,Annual,121.13,3149.38,8.0,Credit Card,No,No,No
+CUST0378,36,Male,North,71,Monthly,47.0,3337.0,7.0,Bank Transfer,Yes,Yes,Yes
+CUST0379,18,Male,North,64,Monthly,31.71,2029.44,8.0,Credit Card,Yes,No,No
+CUST0380,59,Male,West,38,Monthly,26.51,1007.38,2.0,Credit Card,No,No,Yes
+CUST0381,69,Female,West,15,Monthly,118.57,1778.55,0.0,Credit Card,Yes,Yes,Yes
+CUST0382,39,Female,West,35,Two-Year,32.08,1122.8,5.0,Credit Card,Yes,No,No
+CUST0383,43,Female,East,50,Annual,82.17,4108.5,6.0,PayPal,Yes,Yes,No
+CUST0384,26,Male,South,14,Monthly,96.8,1355.2,7.0,Credit Card,No,No,No
+CUST0385,57,Male,South,62,Two-Year,34.68,2150.16,6.0,Bank Transfer,Yes,Yes,No
+CUST0386,34,Female,North,68,Annual,94.96,6457.28,3.0,PayPal,No,Yes,No
+CUST0387,45,Male,West,45,Annual,103.38,4652.1,2.0,PayPal,Yes,Yes,No
+CUST0388,59,Male,West,64,Two-Year,29.73,1902.72,7.0,Bank Transfer,Yes,No,No
+CUST0389,35,Male,South,71,Annual,72.43,5142.53,3.0,Credit Card,No,No,No
+CUST0390,69,Female,North,64,Monthly,35.43,2267.52,7.0,PayPal,Yes,Yes,No
+CUST0391,43,Female,North,72,Annual,127.37,9170.64,4.0,PayPal,Yes,No,No
+CUST0392,39,Female,North,29,Two-Year,63.16,1831.64,7.0,PayPal,No,No,No
+CUST0393,25,Male,South,1,Monthly,127.88,127.88,4.0,PayPal,No,Yes,Yes
+CUST0394,20,Male,West,18,Two-Year,116.53,2097.54,6.0,Credit Card,No,Yes,No
+CUST0395,30,Male,West,28,Monthly,121.58,3404.24,5.0,Credit Card,No,Yes,Yes
+CUST0396,58,Male,West,59,Annual,144.3,8513.7,2.0,Bank Transfer,Yes,Yes,No
+CUST0397,53,Female,West,66,Annual,138.32,9129.12,2.0,PayPal,Yes,Yes,No
+CUST0398,42,Female,West,54,Two-Year,139.07,7509.78,3.0,Bank Transfer,No,No,No
+CUST0399,36,Female,South,18,Monthly,111.0,1998.0,8.0,Bank Transfer,No,Yes,Yes
+CUST0400,30,Male,East,45,Two-Year,37.25,1676.25,2.0,PayPal,No,Yes,No
+CUST0401,66,Female,West,54,Annual,136.2,7354.8,8.0,Bank Transfer,No,Yes,Yes
+CUST0402,51,Male,North,49,Monthly,107.13,5249.37,3.0,Bank Transfer,Yes,No,No
+CUST0403,61,Female,South,8,Annual,58.37,466.96,8.0,Credit Card,No,No,Yes
+CUST0404,24,Male,West,31,Annual,123.59,3831.29,4.0,PayPal,Yes,No,No
+CUST0405,42,Female,East,71,Monthly,116.68,8284.28,3.0,PayPal,No,Yes,Yes
+CUST0406,58,Female,South,25,Monthly,43.07,1076.75,1.0,Credit Card,Yes,Yes,No
+CUST0407,42,Male,West,36,Annual,36.91,1328.76,4.0,Credit Card,No,No,No
+CUST0408,63,Male,North,20,Two-Year,97.59,1951.8,4.0,Bank Transfer,No,Yes,Yes
+CUST0409,68,Female,South,24,Annual,122.21,2933.04,2.0,Bank Transfer,No,Yes,No
+CUST0410,40,Male,South,43,Monthly,58.16,2500.88,8.0,Bank Transfer,Yes,Yes,Yes
+CUST0411,60,Female,West,31,Two-Year,550.0,3093.18,3.0,Credit Card,No,No,No
+CUST0412,68,Male,West,33,Annual,,,,,No,No,No
+CUST0413,20,Female,South,42,Annual,143.27,6017.34,2.0,PayPal,Yes,Yes,No
+CUST0414,31,Male,West,14,Monthly,127.74,1788.36,6.0,PayPal,Yes,Yes,Yes
+CUST0415,19,Female,East,5,Monthly,27.05,135.25,4.0,PayPal,Yes,Yes,Yes
+CUST0416,34,Female,West,58,Annual,76.29,4424.82,0.0,Bank Transfer,Yes,Yes,No
+CUST0417,59,Male,North,10,Monthly,85.37,853.7,4.0,PayPal,No,Yes,Yes
+CUST0418,36,Female,West,51,Two-Year,24.01,1224.51,2.0,PayPal,Yes,Yes,No
+CUST0419,65,Female,East,19,Monthly,135.31,2570.89,5.0,Credit Card,Yes,Yes,Yes
+CUST0420,20,Male,West,69,Annual,31.07,2143.83,3.0,PayPal,No,Yes,No
+CUST0421,44,Male,South,24,Monthly,128.52,3084.48,3.0,Credit Card,Yes,Yes,No
+CUST0422,66,Female,North,38,Annual,52.59,1998.42,3.0,PayPal,No,No,No
+CUST0423,40,Male,South,13,Monthly,29.08,378.04,3.0,Bank Transfer,No,No,Yes
+CUST0424,39,Female,South,47,Two-Year,144.63,6797.61,2.0,Credit Card,No,Yes,No
+CUST0425,68,Male,West,36,Two-Year,37.46,1348.56,5.0,Bank Transfer,No,No,Yes
+CUST0426,40,Female,West,71,Monthly,103.92,7378.32,1.0,Bank Transfer,Yes,Yes,No
+CUST0427,34,Male,North,3,Two-Year,102.11,306.33,6.0,PayPal,Yes,Yes,Yes
+CUST0428,53,Female,West,20,Monthly,49.03,980.6,4.0,Credit Card,No,Yes,No
+CUST0429,43,Female,North,31,Two-Year,124.85,3870.35,30.0,PayPal,Yes,No,No
+CUST0430,28,Male,South,62,Two-Year,25.25,1565.5,7.0,Credit Card,Yes,No,No
+CUST0431,41,Male,North,27,Annual,122.89,3318.03,6.0,Bank Transfer,No,Yes,Yes
+CUST0432,20,Female,North,67,Annual,55.55,3721.85,4.0,PayPal,Yes,No,No
+CUST0433,59,Female,East,10,Annual,68.92,689.2,3.0,PayPal,No,No,No
+CUST0434,70,Female,West,62,Two-Year,20.86,1293.32,2.0,Bank Transfer,Yes,Yes,No
+CUST0435,22,Female,South,20,Monthly,67.09,1341.8,1.0,PayPal,Yes,No,Yes
+CUST0436,69,Female,North,62,Annual,82.27,5100.74,2.0,PayPal,No,Yes,No
+CUST0437,33,Male,South,21,Monthly,86.64,1819.44,2.0,Credit Card,Yes,No,Yes
+CUST0438,29,Female,North,37,Two-Year,48.16,1781.92,7.0,Bank Transfer,Yes,Yes,No
+CUST0439,44,Male,South,66,Monthly,114.14,7533.24,5.0,Bank Transfer,Yes,Yes,Yes
+CUST0440,42,Female,South,14,Monthly,,,,,No,Yes,Yes
+CUST0441,56,Male,South,61,Two-Year,97.98,5976.78,8.0,PayPal,Yes,Yes,Yes
+CUST0442,48,Male,North,56,Annual,68.15,3816.4,0.0,PayPal,No,Yes,No
+CUST0443,69,Female,West,45,Annual,116.38,5237.1,1.0,Bank Transfer,Yes,No,No
+CUST0444,48,Male,North,37,Annual,90.69,3355.53,4.0,Credit Card,Yes,Yes,No
+CUST0445,54,Male,North,49,Annual,109.41,5361.09,5.0,Bank Transfer,No,Yes,No
+CUST0446,27,Female,East,34,Two-Year,75.06,2552.04,5.0,PayPal,No,No,No
+CUST0447,66,Male,West,71,Annual,82.72,5873.12,5.0,PayPal,No,No,No
+CUST0448,37,Female,West,18,Two-Year,105.71,1902.78,3.0,Bank Transfer,Yes,Yes,No
+CUST0449,31,Female,East,71,Annual,108.99,7738.29,0.0,Credit Card,No,Yes,No
+CUST0450,69,Male,South,61,Two-Year,76.6,4672.6,1.0,Bank Transfer,Yes,No,No
+CUST0451,23,Male,West,52,Annual,87.73,4561.96,0.0,Credit Card,No,No,No
+CUST0452,18,Male,East,25,Monthly,97.94,2448.5,8.0,PayPal,Yes,Yes,Yes
+CUST0453,61,Male,East,31,Annual,146.83,4551.73,1.0,Bank Transfer,No,No,No
+CUST0454,60,Female,West,26,Annual,115.8,3010.8,1.0,Credit Card,No,No,No
+CUST0455,40,Female,South,25,Monthly,72.51,1812.75,0.0,Bank Transfer,Yes,No,Yes
+CUST0456,50,Male,North,65,Monthly,143.11,9302.15,8.0,Bank Transfer,No,No,Yes
+CUST0457,42,Female,South,44,Two-Year,79.65,3504.6,7.0,PayPal,Yes,No,Yes
+CUST0458,25,Female,North,49,Annual,149.25,7313.25,3.0,Bank Transfer,No,No,No
+CUST0459,51,Male,East,32,Monthly,71.86,2299.52,5.0,Credit Card,Yes,No,Yes
+CUST0460,38,Female,South,35,Monthly,117.0,4095.0,3.0,Bank Transfer,Yes,Yes,Yes
+CUST0461,65,Male,East,27,Monthly,128.54,3470.58,5.0,Credit Card,Yes,Yes,Yes
+CUST0462,23,Female,North,70,Two-Year,130.24,9116.8,5.0,PayPal,No,No,No
+CUST0463,54,Female,West,24,Two-Year,139.08,3337.92,4.0,Bank Transfer,Yes,Yes,No
+CUST0464,21,Female,West,70,Monthly,65.15,4560.5,2.0,Bank Transfer,Yes,No,No
+CUST0465,38,Male,North,27,Monthly,33.1,893.7,5.0,PayPal,No,Yes,No
+CUST0466,53,Female,South,35,Monthly,99.7,3489.5,5.0,Credit Card,No,No,Yes
+CUST0467,31,Female,East,47,Two-Year,56.35,2648.45,2.0,PayPal,Yes,Yes,No
+CUST0468,70,Male,East,31,Annual,131.32,4070.92,3.0,Credit Card,Yes,No,No
+CUST0469,69,Male,South,54,Monthly,149.42,8068.68,8.0,PayPal,No,No,Yes
+CUST0470,37,Female,North,51,Monthly,41.23,2102.73,3.0,Bank Transfer,No,Yes,No
+CUST0471,46,Female,East,47,Monthly,92.47,4346.09,4.0,Bank Transfer,Yes,No,Yes
+CUST0472,25,Female,South,69,Monthly,121.44,8379.36,5.0,Bank Transfer,No,No,No
+CUST0473,23,Female,East,60,Annual,38.83,2329.8,2.0,PayPal,No,No,Yes
+CUST0474,58,Female,North,11,Monthly,49.67,546.37,5.0,PayPal,No,No,Yes
+CUST0475,56,Female,East,57,Annual,142.04,8096.28,8.0,Bank Transfer,No,Yes,No
+CUST0476,29,Male,South,31,Annual,142.26,4410.06,1.0,Credit Card,Yes,No,No
+CUST0477,24,Male,North,61,Annual,23.43,1429.23,6.0,PayPal,Yes,Yes,Yes
+CUST0478,34,Male,North,50,Monthly,52.16,2608.0,4.0,Bank Transfer,Yes,Yes,No
+CUST0479,51,Male,North,5,Annual,131.85,659.25,5.0,Bank Transfer,No,No,No
+CUST0480,53,Female,South,70,Monthly,97.69,6838.3,6.0,PayPal,No,No,Yes
+CUST0481,48,Male,North,57,Monthly,73.59,4194.63,2.0,Bank Transfer,Yes,Yes,No
+CUST0482,51,Male,East,37,Monthly,21.08,779.96,7.0,Bank Transfer,No,Yes,No
+CUST0483,67,Female,East,30,Annual,91.27,2738.1,3.0,Bank Transfer,No,No,No
+CUST0484,33,Male,West,49,Monthly,30.3,1484.7,3.0,PayPal,No,No,No
+CUST0485,59,Female,West,25,Two-Year,43.71,1092.75,4.0,Credit Card,No,No,No
+CUST0486,35,Female,South,42,Monthly,26.45,1110.9,8.0,Credit Card,Yes,Yes,No
+CUST0487,36,Female,South,57,Annual,50.27,2865.39,2.0,Credit Card,No,Yes,Yes
+CUST0488,39,Female,East,64,Two-Year,80.28,5137.92,0.0,Bank Transfer,Yes,Yes,No
+CUST0489,21,Female,West,10,Annual,43.61,436.1,4.0,Bank Transfer,Yes,Yes,No
+CUST0490,67,Male,West,57,Monthly,149.29,8509.53,3.0,Bank Transfer,Yes,Yes,No
+CUST0491,48,Female,East,42,Monthly,114.67,4816.14,8.0,PayPal,Yes,No,Yes
+CUST0492,48,Female,South,47,Two-Year,132.28,6217.16,3.0,Credit Card,Yes,No,No
+CUST0493,38,Male,South,36,Annual,71.46,2572.56,3.0,Credit Card,Yes,No,No
+CUST0494,62,Male,East,12,Monthly,84.99,1019.88,5.0,PayPal,Yes,Yes,Yes
+CUST0495,40,Male,North,17,Monthly,61.18,1040.06,8.0,PayPal,No,No,Yes
+CUST0496,64,Male,North,49,Monthly,37.52,1838.48,0.0,Bank Transfer,No,No,No
+CUST0497,52,Female,South,24,Annual,62.08,1489.92,7.0,Bank Transfer,Yes,Yes,No
+CUST0498,51,Male,West,38,Two-Year,90.41,3435.58,7.0,Credit Card,No,Yes,Yes
+CUST0499,19,Female,South,42,Annual,105.58,4434.36,8.0,Bank Transfer,Yes,No,No
+CUST0500,67,Male,East,42,Monthly,,,,,Yes,Yes,No
+CUST0501,26,Male,North,26,Monthly,44.91,1167.66,0.0,PayPal,No,No,No
+CUST0502,51,Female,North,47,Monthly,113.32,5326.04,0.0,Credit Card,No,Yes,No
+CUST0503,47,Male,East,72,Annual,135.76,9774.72,5.0,PayPal,Yes,No,Yes
+CUST0504,51,Male,North,39,Monthly,48.07,1874.73,8.0,Credit Card,Yes,Yes,No
+CUST0505,52,Female,South,25,Annual,52.34,1308.5,2.0,PayPal,No,Yes,No
+CUST0506,67,Female,West,55,Two-Year,41.69,2292.95,2.0,PayPal,No,No,No
+CUST0507,60,Male,West,46,Two-Year,91.51,4209.46,5.0,Bank Transfer,No,No,No
+CUST0508,70,Female,South,70,Monthly,119.54,8367.8,4.0,Bank Transfer,No,No,No
+CUST0509,43,Male,North,37,Annual,87.29,3229.73,4.0,Credit Card,No,Yes,No
+CUST0510,31,Female,North,36,Two-Year,86.47,3112.92,2.0,Credit Card,Yes,No,No
+CUST0511,40,Male,South,34,Monthly,95.68,3253.12,3.0,Bank Transfer,No,Yes,No
+CUST0512,54,Female,South,10,Annual,123.08,1230.8,2.0,Bank Transfer,Yes,No,Yes
+CUST0513,20,Female,North,8,Two-Year,63.47,507.76,6.0,Bank Transfer,Yes,Yes,No
+CUST0514,65,Male,West,7,Monthly,,,,,Yes,No,Yes
+CUST0515,50,Male,South,7,Annual,149.66,1047.62,7.0,PayPal,Yes,Yes,Yes
+CUST0516,45,Female,West,19,Monthly,30.73,583.87,0.0,PayPal,No,No,Yes
+CUST0517,23,Female,West,17,Annual,82.52,1402.84,3.0,Bank Transfer,No,Yes,No
+CUST0518,53,Male,South,10,Monthly,75.91,759.1,1.0,Credit Card,No,No,No
+CUST0519,41,Female,South,42,Monthly,105.2,4418.4,4.0,Credit Card,No,No,No
+CUST0520,57,Male,West,6,Two-Year,50.35,302.1,5.0,Credit Card,Yes,Yes,Yes
+CUST0521,65,Male,South,19,Two-Year,126.62,2405.78,0.0,Bank Transfer,Yes,No,No
+CUST0522,46,Female,North,43,Monthly,,,,,No,No,No
+CUST0523,57,Male,North,49,Annual,106.26,5206.74,0.0,Bank Transfer,Yes,Yes,No
+CUST0524,36,Male,East,7,Monthly,142.87,1000.09,1.0,Bank Transfer,No,No,Yes
+CUST0525,24,Male,East,50,Monthly,69.49,3474.5,1.0,Bank Transfer,No,Yes,No
+CUST0526,29,Male,West,72,Two-Year,22.79,1640.88,3.0,PayPal,No,No,No
+CUST0527,49,Female,South,3,Monthly,65.75,197.25,4.0,Credit Card,No,Yes,Yes
+CUST0528,58,Female,West,4,Two-Year,,,,,No,No,Yes
+CUST0529,60,Male,North,49,Annual,108.14,5298.86,3.0,Bank Transfer,Yes,Yes,Yes
+CUST0530,45,Female,East,58,Annual,46.88,2719.04,2.0,PayPal,Yes,Yes,No
+CUST0531,37,Male,West,19,Annual,93.43,1775.17,2.0,Bank Transfer,Yes,Yes,No
+CUST0532,29,Female,South,4,Annual,134.42,537.68,6.0,Bank Transfer,No,No,No
+CUST0533,65,Female,South,25,Monthly,44.02,1100.5,4.0,PayPal,Yes,Yes,No
+CUST0534,32,Male,East,11,Annual,81.96,901.56,8.0,PayPal,No,No,Yes
+CUST0535,29,Female,West,61,Monthly,45.12,2752.32,0.0,Bank Transfer,Yes,No,No
+CUST0536,44,Male,South,27,Monthly,140.52,3794.04,7.0,PayPal,No,No,No
+CUST0537,47,Male,West,52,Annual,99.03,5149.56,6.0,PayPal,No,No,No
+CUST0538,57,Male,North,58,Monthly,134.11,7778.38,3.0,PayPal,No,Yes,Yes
+CUST0539,53,Female,North,25,Monthly,71.75,1793.75,4.0,Bank Transfer,No,Yes,No
+CUST0540,45,Female,North,67,Two-Year,80.27,5378.09,7.0,Credit Card,Yes,Yes,No
+CUST0541,67,Male,West,53,Monthly,23.24,1231.72,7.0,PayPal,Yes,No,No
+CUST0542,23,Female,East,21,Annual,36.06,757.26,1.0,PayPal,No,No,No
+CUST0543,23,Female,South,49,Annual,25.71,1259.79,2.0,Bank Transfer,Yes,Yes,No
+CUST0544,27,Male,North,54,Monthly,114.92,6205.68,7.0,Bank Transfer,Yes,Yes,Yes
+CUST0545,26,Male,North,33,Monthly,84.69,2794.77,7.0,PayPal,Yes,No,Yes
+CUST0546,33,Male,West,59,Monthly,30.32,1788.88,0.0,Credit Card,No,Yes,No
+CUST0547,21,Male,South,8,Annual,24.77,198.16,0.0,PayPal,No,No,Yes
+CUST0548,23,Male,North,54,Two-Year,40.97,2212.38,4.0,PayPal,Yes,No,No
+CUST0549,65,Female,North,12,Annual,61.97,743.64,6.0,Credit Card,No,Yes,No
+CUST0550,36,Female,South,16,Annual,,,,,Yes,Yes,No
+CUST0551,57,Male,North,68,Two-Year,82.88,5635.84,4.0,Bank Transfer,No,No,No
+CUST0552,51,Female,South,64,Annual,102.14,6536.96,7.0,Credit Card,Yes,No,No
+CUST0553,30,Male,North,4,Monthly,123.58,494.32,3.0,PayPal,No,No,Yes
+CUST0554,20,Female,East,72,Two-Year,47.6,3427.2,3.0,PayPal,No,No,No
+CUST0555,68,Male,East,39,Annual,62.11,2422.29,0.0,Credit Card,No,No,No
+CUST0556,43,Male,South,25,Monthly,63.93,1598.25,7.0,Bank Transfer,Yes,Yes,Yes
+CUST0557,48,Male,West,69,Two-Year,80.12,5528.28,6.0,PayPal,Yes,No,No
+CUST0558,54,Female,North,27,Annual,63.12,1704.24,5.0,Credit Card,Yes,No,Yes
+CUST0559,19,Female,West,69,Two-Year,450.0,6501.87,6.0,Credit Card,Yes,No,No
+CUST0560,63,Female,North,35,Monthly,84.62,2961.7,3.0,Bank Transfer,No,No,No
+CUST0561,31,Female,South,15,Monthly,24.86,372.9,3.0,Credit Card,No,Yes,No
+CUST0562,69,Female,South,25,Monthly,82.85,2071.25,8.0,Bank Transfer,No,Yes,Yes
+CUST0563,67,Male,South,27,Annual,79.72,2152.44,8.0,Credit Card,Yes,No,Yes
+CUST0564,20,Male,East,60,Two-Year,33.4,2004.0,4.0,Credit Card,No,Yes,Yes
+CUST0565,38,Male,South,37,Monthly,61.49,2275.13,7.0,PayPal,Yes,No,Yes
+CUST0566,27,Male,East,15,Monthly,100.98,1514.7,8.0,Credit Card,Yes,No,Yes
+CUST0567,53,Female,East,19,Two-Year,124.52,2365.88,3.0,Credit Card,Yes,No,No
+CUST0568,57,Female,West,7,Monthly,81.2,568.4,0.0,Credit Card,No,Yes,Yes
+CUST0569,23,Female,West,23,Annual,135.87,3125.01,7.0,PayPal,No,No,No
+CUST0570,39,Male,North,60,Annual,32.08,1924.8,7.0,Credit Card,No,No,No
+CUST0571,61,Female,West,30,Two-Year,38.68,1160.4,4.0,Bank Transfer,No,Yes,No
+CUST0572,62,Female,East,59,Monthly,28.5,1681.5,1.0,Bank Transfer,No,No,No
+CUST0573,28,Female,East,17,Annual,72.74,1236.58,1.0,Bank Transfer,Yes,No,No
+CUST0574,52,Female,West,53,Monthly,51.68,2739.04,2.0,Bank Transfer,No,Yes,No
+CUST0575,39,Male,West,56,Annual,64.49,3611.44,3.0,Credit Card,Yes,No,No
+CUST0576,25,Female,East,72,Monthly,77.88,5607.36,4.0,Bank Transfer,Yes,Yes,No
+CUST0577,61,Female,East,64,Annual,27.99,1791.36,3.0,Credit Card,Yes,Yes,No
+CUST0578,60,Male,West,69,Monthly,100.02,6901.38,7.0,Credit Card,Yes,No,No
+CUST0579,37,Female,West,45,Two-Year,95.75,4308.75,8.0,Bank Transfer,Yes,No,No
+CUST0580,21,Female,North,1,Annual,126.7,126.7,5.0,Credit Card,No,Yes,Yes
+CUST0581,33,Female,West,41,Annual,72.78,2983.98,6.0,PayPal,Yes,Yes,No
+CUST0582,48,Male,South,72,Monthly,140.18,10092.96,6.0,Credit Card,No,Yes,No
+CUST0583,26,Male,North,3,Monthly,135.04,405.12,6.0,Credit Card,Yes,Yes,Yes
+CUST0584,59,Female,West,55,Annual,79.07,4348.85,6.0,PayPal,No,No,No
+CUST0585,40,Male,South,55,Annual,,,,,No,No,No
+CUST0586,52,Female,North,5,Annual,111.63,558.15,1.0,PayPal,No,Yes,Yes
+CUST0587,27,Female,West,67,Monthly,135.69,9091.23,1.0,Credit Card,No,Yes,Yes
+CUST0588,61,Female,North,44,Annual,21.4,941.6,7.0,PayPal,No,No,Yes
+CUST0589,44,Female,East,38,Monthly,110.36,4193.68,4.0,PayPal,No,Yes,Yes
+CUST0590,58,Female,South,7,Annual,57.93,405.51,0.0,Bank Transfer,No,Yes,Yes
+CUST0591,26,Male,East,33,Monthly,56.53,1865.49,4.0,Credit Card,Yes,Yes,Yes
+CUST0592,55,Male,West,48,Two-Year,53.96,2590.08,3.0,Bank Transfer,Yes,Yes,No
+CUST0593,39,Male,South,20,Two-Year,117.86,2357.2,6.0,Bank Transfer,Yes,No,Yes
+CUST0594,64,Male,South,45,Monthly,54.37,2446.65,1.0,Credit Card,Yes,No,No
+CUST0595,43,Female,East,61,Annual,117.82,7187.02,8.0,Credit Card,No,No,No
+CUST0596,48,Female,South,68,Two-Year,21.54,1464.72,7.0,Bank Transfer,No,Yes,No
+CUST0597,24,Female,West,35,Monthly,54.72,1915.2,1.0,Bank Transfer,No,No,No
+CUST0598,67,Male,South,67,Monthly,109.74,7352.58,2.0,Bank Transfer,Yes,Yes,Yes
+CUST0599,22,Male,West,13,Annual,109.11,1418.43,5.0,Credit Card,No,No,Yes
+CUST0600,30,Male,North,12,Monthly,97.24,1166.88,3.0,PayPal,Yes,Yes,Yes
+CUST0601,23,Male,West,24,Two-Year,110.43,2650.32,4.0,Bank Transfer,No,Yes,No
+CUST0602,58,Female,East,55,Annual,,,,,Yes,Yes,Yes
+CUST0603,35,Male,West,50,Monthly,27.81,1390.5,4.0,Credit Card,No,Yes,Yes
+CUST0604,49,Male,West,23,Annual,34.1,784.3,8.0,Bank Transfer,Yes,Yes,Yes
+CUST0605,46,Female,North,5,Monthly,94.27,471.35,4.0,Bank Transfer,Yes,No,Yes
+CUST0606,27,Male,North,50,Monthly,111.01,5550.5,6.0,PayPal,Yes,No,Yes
+CUST0607,48,Female,West,9,Annual,20.43,183.87,7.0,Credit Card,No,No,Yes
+CUST0608,61,Female,West,8,Annual,144.65,1157.2,1.0,Bank Transfer,No,Yes,Yes
+CUST0609,47,Female,South,23,Annual,145.78,3352.94,3.0,Bank Transfer,No,Yes,No
+CUST0610,58,Female,West,11,Two-Year,76.94,846.34,3.0,Credit Card,Yes,Yes,No
+CUST0611,19,Male,West,50,Monthly,90.27,4513.5,4.0,Bank Transfer,No,Yes,Yes
+CUST0612,20,Female,North,44,Annual,25.57,1125.08,1.0,Credit Card,No,Yes,No
+CUST0613,65,Male,North,5,Annual,83.56,417.8,0.0,Bank Transfer,Yes,Yes,No
+CUST0614,62,Male,North,23,Annual,137.61,3165.03,1.0,Bank Transfer,Yes,Yes,Yes
+CUST0615,70,Male,North,64,Annual,100.03,6401.92,1.0,Credit Card,No,No,No
+CUST0616,69,Female,East,16,Two-Year,94.88,1518.08,2.0,Bank Transfer,Yes,Yes,No
+CUST0617,55,Male,East,9,Monthly,38.36,345.24,6.0,Credit Card,No,Yes,Yes
+CUST0618,46,Male,North,18,Monthly,130.16,2342.88,6.0,Credit Card,Yes,No,Yes
+CUST0619,23,Male,North,23,Two-Year,111.88,2573.24,4.0,Bank Transfer,No,Yes,No
+CUST0620,31,Male,East,67,Monthly,51.1,3423.7,2.0,PayPal,Yes,Yes,No
+CUST0621,63,Female,North,39,Monthly,20.59,803.01,3.0,Credit Card,Yes,Yes,Yes
+CUST0622,57,Female,South,60,Annual,,,,,Yes,Yes,No
+CUST0623,68,Male,West,64,Monthly,107.12,6855.68,0.0,Credit Card,No,No,Yes
+CUST0624,31,Female,East,43,Annual,135.71,5835.53,7.0,Credit Card,Yes,Yes,No
+CUST0625,52,Male,South,4,Monthly,35.09,140.36,3.0,PayPal,No,No,Yes
+CUST0626,44,Male,East,30,Annual,62.4,1872.0,1.0,Credit Card,No,Yes,No
+CUST0627,42,Male,North,61,Annual,,,,,Yes,No,No
+CUST0628,29,Female,East,18,Monthly,45.24,814.32,5.0,Bank Transfer,Yes,No,No
+CUST0629,26,Male,North,36,Monthly,130.71,4705.56,18.0,Bank Transfer,Yes,No,Yes
+CUST0630,32,Female,South,22,Annual,91.86,2020.92,3.0,Credit Card,No,No,No
+CUST0631,31,Female,West,36,Monthly,75.65,2723.4,3.0,Credit Card,No,No,No
+CUST0632,55,Male,South,1,Monthly,25.75,25.75,7.0,PayPal,Yes,No,Yes
+CUST0633,51,Female,West,13,Monthly,51.27,666.51,8.0,Credit Card,No,Yes,Yes
+CUST0634,26,Female,East,31,Annual,31.79,985.49,7.0,PayPal,No,Yes,No
+CUST0635,63,Female,North,59,Monthly,38.02,2243.18,6.0,Credit Card,No,No,Yes
+CUST0636,63,Male,North,50,Two-Year,63.28,3164.0,0.0,Bank Transfer,No,No,No
+CUST0637,62,Male,North,43,Annual,,,,,Yes,No,No
+CUST0638,41,Female,North,47,Monthly,104.26,4900.22,1.0,PayPal,Yes,Yes,Yes
+CUST0639,39,Male,North,62,Annual,117.8,7303.6,3.0,PayPal,Yes,No,No
+CUST0640,40,Female,West,36,Monthly,68.47,2464.92,7.0,Bank Transfer,Yes,No,Yes
+CUST0641,63,Female,West,48,Annual,142.9,6859.2,1.0,Credit Card,No,Yes,Yes
+CUST0642,23,Female,South,37,Two-Year,30.0,1110.0,2.0,Bank Transfer,Yes,Yes,No
+CUST0643,49,Male,South,67,Two-Year,22.95,1537.65,6.0,PayPal,Yes,No,No
+CUST0644,40,Female,West,3,Monthly,28.18,84.54,3.0,PayPal,No,No,Yes
+CUST0645,55,Female,East,63,Annual,110.59,6967.17,8.0,Bank Transfer,No,No,Yes
+CUST0646,54,Male,East,22,Annual,49.48,1088.56,5.0,Bank Transfer,Yes,Yes,No
+CUST0647,40,Female,West,22,Annual,40.9,899.8,8.0,Bank Transfer,Yes,Yes,No
+CUST0648,63,Male,South,31,Monthly,149.19,4624.89,2.0,Bank Transfer,No,No,No
+CUST0649,29,Male,North,41,Two-Year,39.23,1608.43,7.0,PayPal,Yes,No,No
+CUST0650,25,Male,West,64,Annual,143.21,9165.44,5.0,Credit Card,Yes,No,No
+CUST0651,59,Female,West,38,Two-Year,118.04,4485.52,2.0,PayPal,No,No,No
+CUST0652,62,Male,West,6,Monthly,91.62,549.72,4.0,Credit Card,No,Yes,Yes
+CUST0653,46,Female,North,42,Monthly,103.37,4341.54,8.0,Credit Card,No,Yes,Yes
+CUST0654,19,Male,West,12,Two-Year,71.28,855.36,7.0,Bank Transfer,Yes,No,No
+CUST0655,43,Male,West,48,Monthly,21.58,1035.84,5.0,Bank Transfer,No,No,Yes
+CUST0656,53,Male,South,57,Annual,74.03,4219.71,7.0,Bank Transfer,Yes,No,Yes
+CUST0657,64,Female,South,12,Monthly,59.42,713.04,8.0,Bank Transfer,Yes,No,Yes
+CUST0658,23,Male,West,35,Monthly,92.26,3229.1,2.0,Credit Card,Yes,No,Yes
+CUST0659,36,Female,North,39,Two-Year,59.51,2320.89,8.0,PayPal,No,Yes,No
+CUST0660,19,Male,South,34,Monthly,103.27,3511.18,7.0,Credit Card,No,No,Yes
+CUST0661,29,Female,South,4,Monthly,,,,,No,No,Yes
+CUST0662,54,Female,East,61,Two-Year,126.38,7709.18,5.0,PayPal,Yes,No,No
+CUST0663,28,Male,South,41,Monthly,110.13,4515.33,5.0,Credit Card,Yes,No,Yes
+CUST0664,41,Female,East,7,Monthly,88.85,621.95,1.0,PayPal,Yes,Yes,Yes
+CUST0665,66,Male,South,70,Monthly,61.11,4277.7,4.0,Bank Transfer,No,Yes,Yes
+CUST0666,52,Female,South,2,Monthly,56.58,113.16,7.0,Bank Transfer,No,Yes,Yes
+CUST0667,24,Male,South,65,Monthly,44.49,2891.85,8.0,PayPal,Yes,No,Yes
+CUST0668,47,Male,North,17,Two-Year,82.34,1399.78,4.0,PayPal,No,Yes,No
+CUST0669,70,Female,East,23,Annual,23.74,546.02,1.0,Credit Card,Yes,Yes,No
+CUST0670,62,Male,East,17,Monthly,147.54,2508.18,6.0,PayPal,Yes,Yes,Yes
+CUST0671,19,Female,West,6,Monthly,24.26,145.56,8.0,PayPal,Yes,No,Yes
+CUST0672,25,Female,North,9,Monthly,21.34,192.06,1.0,Credit Card,Yes,Yes,No
+CUST0673,29,Female,North,12,Monthly,117.01,1404.12,4.0,PayPal,No,No,Yes
+CUST0674,28,Male,North,13,Two-Year,119.22,1549.86,8.0,Credit Card,Yes,No,No
+CUST0675,28,Male,North,28,Two-Year,130.67,3658.76,7.0,Bank Transfer,Yes,No,No
+CUST0676,61,Male,South,46,Two-Year,75.13,3455.98,8.0,Credit Card,No,Yes,No
+CUST0677,66,Female,North,200,Monthly,37.67,2260.2,5.0,PayPal,No,Yes,Yes
+CUST0678,23,Female,West,15,Monthly,79.4,1191.0,4.0,PayPal,No,Yes,Yes
+CUST0679,53,Female,East,55,Monthly,,,,,No,Yes,No
+CUST0680,18,Female,North,51,Monthly,105.61,5386.11,1.0,Credit Card,Yes,No,No
+CUST0681,43,Male,South,9,Monthly,45.88,412.92,3.0,PayPal,No,Yes,No
+CUST0682,32,Female,West,36,Annual,119.58,4304.88,4.0,PayPal,No,No,Yes
+CUST0683,48,Female,West,66,Monthly,119.84,7909.44,1.0,Credit Card,No,No,Yes
+CUST0684,49,Male,South,4,Monthly,26.87,107.48,1.0,Bank Transfer,Yes,Yes,No
+CUST0685,42,Female,South,39,Annual,32.52,1268.28,1.0,PayPal,No,No,No
+CUST0686,30,Female,West,63,Annual,90.52,5702.76,8.0,PayPal,Yes,Yes,No
+CUST0687,45,Male,West,58,Monthly,68.92,3997.36,7.0,Credit Card,Yes,Yes,No
+CUST0688,53,Female,South,63,Monthly,,,,,Yes,No,Yes
+CUST0689,60,Female,West,72,Two-Year,85.87,6182.64,6.0,Bank Transfer,No,No,No
+CUST0690,57,Female,East,42,Monthly,96.76,4063.92,2.0,Bank Transfer,No,Yes,Yes
+CUST0691,66,Female,West,13,Monthly,148.95,1936.35,6.0,Bank Transfer,Yes,Yes,Yes
+CUST0692,33,Male,East,11,Two-Year,28.52,313.72,4.0,Credit Card,No,Yes,No
+CUST0693,19,Female,North,59,Annual,74.92,4420.28,8.0,Bank Transfer,No,Yes,No
+CUST0694,62,Female,North,41,Monthly,70.74,2900.34,1.0,Bank Transfer,Yes,Yes,Yes
+CUST0695,39,Female,East,22,Annual,67.23,1479.06,6.0,Credit Card,No,Yes,Yes
+CUST0696,52,Male,East,34,Monthly,149.51,5083.34,6.0,Credit Card,Yes,Yes,Yes
+CUST0697,55,Female,East,9,Annual,89.04,801.36,6.0,Credit Card,No,Yes,Yes
+CUST0698,59,Female,East,56,Annual,60.74,3401.44,6.0,Bank Transfer,No,No,No
+CUST0699,60,Male,North,67,Two-Year,94.99,6364.33,3.0,PayPal,No,No,No
+CUST0700,58,Female,North,67,Monthly,80.12,5368.04,3.0,Credit Card,No,No,No
+CUST0701,44,Female,North,27,Two-Year,54.7,1476.9,4.0,PayPal,Yes,No,No
+CUST0702,61,Male,West,31,Monthly,44.95,1393.45,3.0,Bank Transfer,No,No,Yes
+CUST0703,53,Female,West,5,Monthly,55.45,277.25,0.0,Bank Transfer,No,Yes,Yes
+CUST0704,59,Male,West,3,Monthly,136.55,409.65,5.0,PayPal,No,Yes,Yes
+CUST0705,44,Female,North,51,Two-Year,114.15,5821.65,2.0,Credit Card,Yes,Yes,No
+CUST0706,51,Female,West,12,Monthly,35.9,430.8,5.0,Bank Transfer,No,Yes,No
+CUST0707,45,Male,South,14,Monthly,146.09,2045.26,7.0,Bank Transfer,No,Yes,Yes
+CUST0708,49,Female,North,41,Annual,81.73,3350.93,3.0,Bank Transfer,Yes,No,No
+CUST0709,48,Female,East,3,Annual,137.68,413.04,0.0,PayPal,Yes,Yes,Yes
+CUST0710,34,Female,East,47,Two-Year,109.08,5126.76,8.0,Credit Card,No,No,No
+CUST0711,18,Female,East,39,Monthly,126.95,4951.05,3.0,Bank Transfer,Yes,Yes,No
+CUST0712,46,Female,West,5,Monthly,30.41,152.05,7.0,Bank Transfer,No,No,Yes
+CUST0713,63,Female,North,21,Annual,85.82,1802.22,5.0,Bank Transfer,No,No,No
+CUST0714,62,Male,North,24,Annual,122.83,2947.92,2.0,Credit Card,No,Yes,No
+CUST0715,58,Female,East,11,Monthly,52.45,576.95,2.0,PayPal,No,No,Yes
+CUST0716,46,Female,South,34,Monthly,97.09,3301.06,5.0,Bank Transfer,Yes,Yes,No
+CUST0717,44,Female,South,51,Two-Year,142.82,7283.82,3.0,Credit Card,Yes,Yes,No
+CUST0718,23,Female,South,34,Annual,41.94,1425.96,6.0,PayPal,No,No,No
+CUST0719,27,Male,East,22,Two-Year,35.26,775.72,8.0,Bank Transfer,No,No,Yes
+CUST0720,25,Male,South,25,Two-Year,125.74,3143.5,4.0,Bank Transfer,No,No,No
+CUST0721,26,Female,South,28,Two-Year,56.79,1590.12,3.0,Bank Transfer,Yes,No,No
+CUST0722,68,Male,North,38,Two-Year,50.61,1923.18,7.0,Credit Card,No,No,No
+CUST0723,23,Male,West,18,Two-Year,146.67,2640.06,6.0,PayPal,Yes,No,Yes
+CUST0724,63,Female,East,10,Monthly,27.64,276.4,5.0,Credit Card,No,No,Yes
+CUST0725,56,Male,North,33,Annual,69.52,2294.16,6.0,PayPal,No,Yes,No
+CUST0726,53,Male,South,34,Monthly,84.07,2858.38,5.0,Bank Transfer,Yes,Yes,No
+CUST0727,38,Female,South,34,Monthly,25.74,875.16,2.0,Bank Transfer,No,No,Yes
+CUST0728,45,Female,East,34,Annual,76.65,2606.1,2.0,Bank Transfer,No,Yes,No
+CUST0729,53,Female,North,25,Monthly,49.88,1247.0,0.0,Bank Transfer,No,Yes,Yes
+CUST0730,63,Female,West,15,Two-Year,140.54,2108.1,0.0,Bank Transfer,No,No,No
+CUST0731,47,Female,North,19,Monthly,32.17,611.23,4.0,Credit Card,Yes,No,Yes
+CUST0732,54,Male,North,68,Annual,43.47,2955.96,1.0,Credit Card,No,Yes,No
+CUST0733,39,Male,East,16,Monthly,96.74,1547.84,1.0,Bank Transfer,Yes,Yes,No
+CUST0734,23,Female,West,59,Annual,55.01,3245.59,0.0,Bank Transfer,Yes,No,No
+CUST0735,38,Male,South,7,Two-Year,56.78,397.46,0.0,PayPal,Yes,No,No
+CUST0736,23,Female,East,23,Monthly,120.21,2764.83,6.0,Credit Card,Yes,Yes,No
+CUST0737,28,Female,West,37,Annual,144.08,5330.96,2.0,Credit Card,No,No,No
+CUST0738,69,Female,East,17,Monthly,,,,,Yes,No,No
+CUST0739,46,Female,West,35,Annual,75.0,2625.0,6.0,Bank Transfer,Yes,No,No
+CUST0740,58,Female,North,6,Annual,146.53,879.18,3.0,PayPal,Yes,No,Yes
+CUST0741,51,Male,East,60,Monthly,,,,,Yes,Yes,Yes
+CUST0742,61,Female,South,67,Monthly,93.91,6291.97,8.0,Credit Card,Yes,Yes,Yes
+CUST0743,50,Female,West,13,Monthly,113.64,1477.32,4.0,Bank Transfer,No,Yes,No
+CUST0744,67,Male,North,60,Monthly,43.69,2621.4,6.0,Credit Card,Yes,No,Yes
+CUST0745,63,Female,East,59,Annual,78.49,4630.91,4.0,Bank Transfer,Yes,Yes,No
+CUST0746,29,Male,East,14,Monthly,22.33,312.62,6.0,Credit Card,Yes,Yes,No
+CUST0747,59,Female,West,52,Two-Year,145.55,7568.6,7.0,Bank Transfer,No,No,No
+CUST0748,69,Female,North,17,Monthly,44.8,761.6,0.0,PayPal,Yes,Yes,No
+CUST0749,31,Female,South,31,Monthly,101.39,3143.09,8.0,Credit Card,Yes,No,No
+CUST0750,67,Female,South,61,Monthly,35.14,2143.54,2.0,PayPal,No,No,No
+CUST0751,48,Male,West,32,Monthly,94.03,3008.96,6.0,Credit Card,No,Yes,Yes
+CUST0752,24,Female,West,64,Annual,97.46,6237.44,8.0,Bank Transfer,Yes,No,No
+CUST0753,43,Female,West,30,Annual,88.68,2660.4,6.0,PayPal,No,Yes,No
+CUST0754,35,Female,West,15,Monthly,142.07,2131.05,5.0,Bank Transfer,No,Yes,Yes
+CUST0755,28,Female,South,61,Monthly,50.17,3060.37,3.0,PayPal,No,No,Yes
+CUST0756,26,Female,West,54,Two-Year,107.5,5805.0,5.0,Bank Transfer,Yes,Yes,No
+CUST0757,36,Male,West,17,Monthly,40.32,685.44,7.0,Credit Card,No,No,Yes
+CUST0758,37,Male,South,72,Monthly,22.36,1609.92,4.0,Bank Transfer,Yes,Yes,No
+CUST0759,70,Male,North,44,Monthly,100.28,4412.32,1.0,PayPal,Yes,No,No
+CUST0760,34,Female,East,6,Annual,92.41,554.46,2.0,PayPal,Yes,Yes,No
+CUST0761,46,Female,North,14,Annual,99.26,1389.64,1.0,PayPal,Yes,Yes,No
+CUST0762,28,Male,South,47,Monthly,,,,,No,Yes,Yes
+CUST0763,27,Female,East,18,Monthly,46.25,832.5,6.0,Credit Card,Yes,No,Yes
+CUST0764,39,Female,South,11,Monthly,112.98,1242.78,6.0,Bank Transfer,Yes,Yes,Yes
+CUST0765,66,Female,South,18,Two-Year,73.74,1327.32,6.0,Bank Transfer,No,Yes,Yes
+CUST0766,46,Male,North,67,Two-Year,31.02,2078.34,5.0,Bank Transfer,Yes,No,No
+CUST0767,21,Female,North,20,Two-Year,27.52,550.4,8.0,Bank Transfer,No,No,No
+CUST0768,61,Female,East,45,Monthly,56.37,2536.65,8.0,PayPal,Yes,No,No
+CUST0769,46,Male,West,45,Two-Year,121.6,5472.0,6.0,Credit Card,No,Yes,No
+CUST0770,20,Female,West,17,Annual,90.3,1535.1,3.0,Credit Card,No,No,No
+CUST0771,66,Male,North,4,Two-Year,90.19,360.76,4.0,Credit Card,No,No,Yes
+CUST0772,50,Male,North,48,Monthly,85.97,4126.56,1.0,Credit Card,Yes,No,No
+CUST0773,37,Male,West,44,Two-Year,124.7,5486.8,8.0,PayPal,Yes,No,Yes
+CUST0774,37,Female,South,49,Annual,52.19,2557.31,5.0,PayPal,Yes,No,No
+CUST0775,47,Male,South,55,Two-Year,30.65,1685.75,0.0,Bank Transfer,Yes,No,No
+CUST0776,31,Female,North,48,Annual,72.36,3473.28,8.0,PayPal,No,No,Yes
+CUST0777,55,Female,West,57,Annual,143.22,8163.54,6.0,Credit Card,Yes,Yes,Yes
+CUST0778,49,Female,South,66,Two-Year,35.35,2333.1,3.0,Bank Transfer,No,Yes,No
+CUST0779,65,Male,East,16,Annual,73.12,1169.92,1.0,Bank Transfer,No,Yes,No
+CUST0780,51,Male,North,48,Monthly,68.68,3296.64,4.0,Bank Transfer,Yes,Yes,No
+CUST0781,27,Female,North,40,Two-Year,48.03,1921.2,7.0,Credit Card,Yes,No,No
+CUST0782,22,Male,West,62,Annual,93.55,5800.1,5.0,Bank Transfer,No,Yes,No
+CUST0783,66,Male,West,58,Annual,39.37,2283.46,5.0,Credit Card,No,No,No
+CUST0784,32,Female,East,70,Monthly,107.16,7501.2,7.0,PayPal,No,Yes,Yes
+CUST0785,28,Male,East,72,Annual,103.71,7467.12,1.0,Credit Card,Yes,Yes,Yes
+CUST0786,66,Female,North,16,Annual,89.14,1426.24,0.0,Bank Transfer,Yes,Yes,No
+CUST0787,63,Female,North,69,Annual,72.23,4983.87,0.0,Bank Transfer,Yes,No,No
+CUST0788,45,Male,West,4,Two-Year,61.26,245.04,4.0,Credit Card,Yes,Yes,No
+CUST0789,52,Male,East,19,Monthly,119.88,2277.72,2.0,Bank Transfer,No,Yes,Yes
+CUST0790,21,Female,South,4,Annual,58.74,234.96,1.0,Bank Transfer,Yes,No,No
+CUST0791,38,Female,West,16,Monthly,51.15,818.4,3.0,Bank Transfer,No,Yes,Yes
+CUST0792,35,Male,East,60,Annual,28.51,1710.6,0.0,Bank Transfer,Yes,Yes,No
+CUST0793,35,Male,South,72,Annual,36.32,2615.04,6.0,Bank Transfer,Yes,Yes,No
+CUST0794,68,Male,East,70,Two-Year,121.66,8516.2,8.0,Bank Transfer,No,Yes,No
+CUST0795,18,Female,East,22,Monthly,141.36,3109.92,7.0,Bank Transfer,No,No,Yes
+CUST0796,40,Male,East,6,Monthly,89.43,536.58,1.0,Bank Transfer,Yes,No,No
+CUST0797,62,Male,South,72,Two-Year,134.18,9660.96,3.0,PayPal,No,No,No
+CUST0798,58,Female,West,35,Monthly,147.79,5172.65,5.0,Credit Card,No,No,Yes
+CUST0799,19,Male,North,61,Monthly,21.25,1296.25,2.0,Bank Transfer,No,No,No
+CUST0800,52,Male,North,69,Monthly,128.17,8843.73,7.0,PayPal,Yes,No,No
+CUST0801,70,Female,East,50,Monthly,119.84,5992.0,0.0,Credit Card,No,No,No
+CUST0802,30,Female,North,29,Annual,118.59,3439.11,5.0,Credit Card,Yes,No,Yes
+CUST0803,69,Male,South,64,Two-Year,24.78,1585.92,7.0,PayPal,Yes,Yes,No
+CUST0804,30,Female,North,120,Annual,84.22,3031.92,8.0,Credit Card,Yes,Yes,No
+CUST0805,55,Male,North,17,Monthly,94.09,1599.53,3.0,PayPal,No,Yes,No
+CUST0806,61,Male,East,72,Two-Year,20.25,1458.0,6.0,PayPal,Yes,No,No
+CUST0807,45,Female,East,16,Annual,80.66,1290.56,5.0,PayPal,Yes,Yes,No
+CUST0808,21,Female,West,69,Monthly,20.67,1426.23,3.0,Bank Transfer,Yes,Yes,No
+CUST0809,65,Male,West,10,Two-Year,45.59,455.9,5.0,Bank Transfer,Yes,Yes,No
+CUST0810,19,Female,West,4,Annual,101.42,405.68,5.0,Bank Transfer,Yes,Yes,Yes
+CUST0811,48,Male,East,7,Two-Year,87.56,612.92,3.0,Credit Card,No,Yes,No
+CUST0812,58,Female,North,11,Two-Year,,,,,Yes,Yes,No
+CUST0813,21,Female,North,39,Annual,76.14,2969.46,1.0,PayPal,Yes,Yes,No
+CUST0814,36,Female,West,13,Annual,73.44,954.72,0.0,Bank Transfer,No,No,No
+CUST0815,68,Female,North,44,Annual,107.85,4745.4,0.0,Bank Transfer,No,Yes,No
+CUST0816,24,Male,North,9,Annual,129.3,1163.7,2.0,PayPal,No,No,Yes
+CUST0817,44,Female,West,24,Monthly,123.61,2966.64,0.0,Credit Card,No,No,Yes
+CUST0818,50,Female,East,70,Annual,39.16,2741.2,4.0,PayPal,No,No,No
+CUST0819,41,Male,South,8,Monthly,126.49,1011.92,8.0,Credit Card,No,No,Yes
+CUST0820,30,Male,South,9,Monthly,106.82,961.38,7.0,PayPal,No,No,Yes
+CUST0821,57,Female,West,43,Monthly,79.06,3399.58,0.0,Bank Transfer,Yes,Yes,No
+CUST0822,58,Male,South,60,Annual,51.07,3064.2,5.0,PayPal,No,Yes,Yes
+CUST0823,43,Male,North,47,Monthly,66.53,3126.91,8.0,Credit Card,Yes,No,Yes
+CUST0824,46,Male,East,6,Two-Year,45.89,275.34,4.0,Credit Card,Yes,No,No
+CUST0825,64,Male,East,71,Monthly,45.48,3229.08,2.0,Bank Transfer,Yes,Yes,No
+CUST0826,61,Male,West,15,Monthly,47.33,709.95,7.0,Credit Card,No,No,No
+CUST0827,60,Male,West,9,Monthly,134.75,1212.75,2.0,Credit Card,Yes,No,Yes
+CUST0828,62,Female,East,55,Two-Year,51.79,2848.45,0.0,PayPal,Yes,No,No
+CUST0829,68,Male,East,32,Monthly,123.43,3949.76,2.0,PayPal,No,Yes,No
+CUST0830,64,Male,West,9,Monthly,70.46,634.14,8.0,Bank Transfer,No,No,Yes
+CUST0831,29,Female,East,68,Annual,113.03,7686.04,7.0,Bank Transfer,No,No,Yes
+CUST0832,58,Male,South,29,Two-Year,78.77,2284.33,3.0,Bank Transfer,Yes,No,No
+CUST0833,45,Female,South,48,Monthly,31.02,1488.96,1.0,Bank Transfer,No,No,Yes
+CUST0834,32,Male,West,66,Annual,75.39,4975.74,7.0,Bank Transfer,No,No,Yes
+CUST0835,69,Female,East,35,Monthly,43.34,1516.9,3.0,Bank Transfer,Yes,No,No
+CUST0836,23,Female,North,36,Two-Year,32.79,1180.44,1.0,Bank Transfer,Yes,Yes,No
+CUST0837,39,Male,East,33,Monthly,126.02,4158.66,4.0,Credit Card,Yes,No,No
+CUST0838,18,Female,East,45,Annual,,,,,Yes,No,No
+CUST0839,59,Male,West,30,Monthly,117.39,3521.7,7.0,Credit Card,No,No,Yes
+CUST0840,39,Male,East,25,Monthly,142.45,3561.25,6.0,Credit Card,No,No,Yes
+CUST0841,53,Male,East,18,Annual,36.68,660.24,0.0,Bank Transfer,No,No,Yes
+CUST0842,32,Female,West,52,Annual,109.77,5708.04,4.0,Bank Transfer,Yes,Yes,No
+CUST0843,26,Male,East,51,Two-Year,46.55,2374.05,6.0,Credit Card,No,Yes,No
+CUST0844,48,Male,East,58,Annual,59.6,3456.8,2.0,Credit Card,Yes,Yes,No
+CUST0845,70,Female,North,24,Monthly,138.47,3323.28,6.0,Bank Transfer,Yes,Yes,Yes
+CUST0846,36,Male,West,8,Monthly,21.44,171.52,5.0,Bank Transfer,No,Yes,Yes
+CUST0847,25,Male,West,62,Annual,70.57,4375.34,3.0,Credit Card,Yes,No,No
+CUST0848,45,Female,South,40,Annual,85.32,3412.8,7.0,Bank Transfer,Yes,Yes,No
+CUST0849,27,Female,North,52,Annual,52.09,2708.68,5.0,PayPal,No,No,No
+CUST0850,47,Male,North,37,Annual,139.46,5160.02,5.0,PayPal,No,No,No
+CUST0851,57,Male,West,32,Monthly,100.31,3209.92,6.0,Bank Transfer,No,Yes,Yes
+CUST0852,62,Male,West,6,Monthly,133.17,799.02,4.0,PayPal,No,Yes,Yes
+CUST0853,62,Male,West,53,Two-Year,91.87,4869.11,5.0,Credit Card,Yes,No,No
+CUST0854,44,Female,South,33,Monthly,25.8,851.4,0.0,Credit Card,No,No,No
+CUST0855,39,Female,South,51,Monthly,52.58,2681.58,2.0,Bank Transfer,No,No,Yes
+CUST0856,47,Male,North,71,Annual,112.77,8006.67,7.0,Credit Card,No,No,Yes
+CUST0857,28,Male,North,13,Monthly,36.14,469.82,6.0,Credit Card,Yes,Yes,Yes
+CUST0858,61,Female,South,57,Monthly,48.17,2745.69,0.0,PayPal,Yes,No,No
+CUST0859,62,Male,North,50,Annual,77.72,3886.0,0.0,Credit Card,No,Yes,No
+CUST0860,33,Female,South,26,Monthly,,,,,Yes,Yes,Yes
+CUST0861,32,Male,South,22,Monthly,86.63,1905.86,5.0,Bank Transfer,Yes,Yes,No
+CUST0862,52,Female,West,16,Monthly,33.77,540.32,5.0,Credit Card,Yes,No,Yes
+CUST0863,59,Female,North,50,Monthly,48.61,2430.5,4.0,PayPal,No,Yes,No
+CUST0864,22,Male,West,39,Annual,84.94,3312.66,1.0,PayPal,Yes,No,No
+CUST0865,24,Female,West,18,Monthly,102.6,1846.8,5.0,PayPal,No,Yes,Yes
+CUST0866,39,Male,West,49,Annual,116.44,5705.56,8.0,PayPal,Yes,Yes,No
+CUST0867,19,Male,East,31,Annual,118.44,3671.64,1.0,Credit Card,Yes,No,Yes
+CUST0868,49,Female,South,20,Monthly,103.47,2069.4,3.0,PayPal,No,No,Yes
+CUST0869,26,Female,East,6,Annual,147.08,882.48,4.0,Credit Card,Yes,No,No
+CUST0870,39,Male,South,70,Monthly,139.3,9751.0,3.0,PayPal,Yes,No,No
+CUST0871,51,Female,South,57,Annual,28.4,1618.8,7.0,Credit Card,Yes,Yes,No
+CUST0872,58,Male,South,17,Monthly,97.04,1649.68,3.0,Credit Card,Yes,No,Yes
+CUST0873,64,Female,East,22,Annual,51.84,1140.48,2.0,PayPal,Yes,No,No
+CUST0874,36,Female,South,35,Two-Year,82.55,2889.25,5.0,Bank Transfer,No,Yes,No
+CUST0875,48,Female,West,65,Annual,76.35,4962.75,2.0,Bank Transfer,Yes,No,Yes
+CUST0876,45,Male,East,69,Monthly,114.46,7897.74,4.0,Bank Transfer,No,No,Yes
+CUST0877,47,Female,West,72,Annual,29.35,2113.2,2.0,PayPal,No,Yes,No
+CUST0878,27,Male,North,2,Two-Year,114.95,229.9,5.0,Bank Transfer,No,No,No
+CUST0879,43,Female,West,63,Monthly,148.38,9347.94,1.0,Bank Transfer,Yes,Yes,Yes
+CUST0880,42,Male,South,56,Two-Year,120.27,6735.12,5.0,PayPal,No,No,Yes
+CUST0881,62,Male,West,55,Annual,51.51,2833.05,0.0,Bank Transfer,Yes,Yes,No
+CUST0882,34,Female,South,33,Monthly,95.18,3140.94,2.0,Credit Card,Yes,Yes,No
+CUST0883,59,Female,West,11,Annual,44.55,490.05,6.0,Credit Card,No,No,Yes
+CUST0884,62,Female,West,40,Annual,,,,,No,Yes,Yes
+CUST0885,35,Male,West,40,Monthly,41.89,1675.6,7.0,Credit Card,Yes,Yes,No
+CUST0886,67,Female,West,37,Annual,42.18,1560.66,5.0,Credit Card,Yes,Yes,Yes
+CUST0887,49,Male,North,58,Annual,47.63,2762.54,3.0,Credit Card,Yes,Yes,No
+CUST0888,34,Female,West,14,Two-Year,41.6,582.4,4.0,Credit Card,No,Yes,No
+CUST0889,35,Male,East,4,Annual,82.13,328.52,1.0,Credit Card,Yes,No,Yes
+CUST0890,66,Male,North,13,Monthly,122.93,1598.09,6.0,PayPal,No,No,Yes
+CUST0891,48,Female,West,44,Monthly,135.72,5971.68,5.0,Credit Card,No,No,Yes
+CUST0892,42,Male,East,43,Two-Year,20.4,877.2,6.0,PayPal,Yes,Yes,No
+CUST0893,56,Male,East,32,Monthly,100.39,3212.48,7.0,PayPal,No,Yes,Yes
+CUST0894,18,Female,North,47,Two-Year,146.05,6864.35,5.0,PayPal,No,Yes,No
+CUST0895,56,Female,West,11,Monthly,142.08,1562.88,7.0,PayPal,Yes,No,Yes
+CUST0896,36,Male,South,67,Two-Year,122.03,8176.01,8.0,Credit Card,Yes,No,Yes
+CUST0897,68,Male,East,71,Two-Year,80.68,5728.28,7.0,Credit Card,No,Yes,No
+CUST0898,33,Male,South,12,Monthly,149.14,1789.68,0.0,Credit Card,No,No,No
+CUST0899,67,Female,South,33,Annual,143.7,4742.1,1.0,PayPal,Yes,No,Yes
+CUST0900,23,Female,South,9,Annual,,,,,No,Yes,Yes
+CUST0901,32,Female,North,38,Monthly,31.59,1200.42,3.0,PayPal,Yes,No,Yes
+CUST0902,26,Female,West,1,Monthly,,,,,No,No,Yes
+CUST0903,67,Female,South,67,Annual,,,,,Yes,No,No
+CUST0904,38,Male,East,29,Monthly,79.25,2298.25,4.0,Credit Card,Yes,No,No
+CUST0905,37,Male,East,62,Annual,48.04,2978.48,4.0,PayPal,No,Yes,No
+CUST0906,69,Female,South,27,Two-Year,141.48,3819.96,3.0,PayPal,Yes,Yes,No
+CUST0907,49,Female,East,21,Two-Year,91.23,1915.83,5.0,Bank Transfer,No,No,No
+CUST0908,66,Female,West,10,Annual,56.8,568.0,3.0,PayPal,No,Yes,Yes
+CUST0909,26,Female,North,39,Monthly,41.28,1609.92,2.0,Bank Transfer,No,No,Yes
+CUST0910,27,Male,South,26,Annual,21.19,550.94,1.0,PayPal,Yes,No,No
+CUST0911,45,Male,North,13,Monthly,81.6,1060.8,0.0,Credit Card,No,No,No
+CUST0912,27,Female,South,5,Monthly,71.56,357.8,4.0,PayPal,Yes,No,Yes
+CUST0913,67,Male,West,49,Monthly,104.92,5141.08,5.0,Credit Card,Yes,Yes,Yes
+CUST0914,23,Male,West,66,Monthly,96.29,6355.14,7.0,Bank Transfer,Yes,Yes,Yes
+CUST0915,42,Female,West,39,Annual,32.93,1284.27,1.0,PayPal,Yes,No,No
+CUST0916,70,Male,West,72,Two-Year,121.85,8773.2,8.0,Bank Transfer,Yes,Yes,No
+CUST0917,66,Male,North,24,Two-Year,110.38,2649.12,0.0,PayPal,No,No,No
+CUST0918,25,Male,South,27,Annual,31.42,848.34,4.0,Credit Card,Yes,Yes,No
+CUST0919,50,Female,East,70,Monthly,147.02,10291.4,0.0,Credit Card,No,Yes,No
+CUST0920,51,Female,West,18,Annual,110.36,1986.48,8.0,Bank Transfer,Yes,Yes,Yes
+CUST0921,60,Male,South,5,Monthly,58.96,294.8,3.0,Credit Card,Yes,No,No
+CUST0922,35,Male,West,10,Annual,53.89,538.9,2.0,Bank Transfer,No,Yes,No
+CUST0923,34,Female,South,69,Monthly,101.84,7026.96,4.0,PayPal,Yes,No,No
+CUST0924,54,Male,West,20,Monthly,122.41,2448.2,6.0,Credit Card,Yes,Yes,Yes
+CUST0925,35,Male,North,71,Monthly,,,,,No,No,No
+CUST0926,27,Male,East,2,Monthly,147.33,294.66,3.0,Bank Transfer,Yes,Yes,Yes
+CUST0927,29,Female,West,13,Annual,111.06,1443.78,4.0,PayPal,No,Yes,Yes
+CUST0928,21,Male,East,50,Monthly,124.79,6239.5,8.0,PayPal,No,No,Yes
+CUST0929,55,Male,East,2,Annual,112.72,225.44,2.0,Credit Card,No,No,No
+CUST0930,21,Female,South,54,Annual,43.8,2365.2,5.0,Bank Transfer,No,No,No
+CUST0931,45,Male,East,12,Two-Year,72.85,874.2,5.0,Credit Card,Yes,Yes,Yes
+CUST0932,64,Male,North,22,Annual,31.0,682.0,4.0,PayPal,No,Yes,No
+CUST0933,45,Male,West,64,Annual,149.73,9582.72,8.0,PayPal,Yes,No,No
+CUST0934,18,Male,North,55,Annual,117.46,6460.3,3.0,PayPal,Yes,No,No
+CUST0935,28,Male,South,10,Monthly,37.33,373.3,5.0,Credit Card,No,No,Yes
+CUST0936,42,Male,East,15,Monthly,108.28,1624.2,8.0,Credit Card,No,No,Yes
+CUST0937,48,Female,East,28,Monthly,102.05,2857.4,6.0,Credit Card,No,Yes,Yes
+CUST0938,47,Female,North,46,Monthly,79.85,3673.1,4.0,Bank Transfer,Yes,Yes,No
+CUST0939,40,Male,West,46,Monthly,,,,,Yes,No,Yes
+CUST0940,25,Female,North,20,Annual,52.52,1050.4,7.0,Bank Transfer,No,No,No
+CUST0941,41,Female,South,69,Two-Year,34.13,2354.97,7.0,PayPal,No,Yes,No
+CUST0942,26,Female,West,1,Monthly,133.17,133.17,3.0,Credit Card,Yes,No,Yes
+CUST0943,20,Male,West,54,Annual,137.13,7405.02,2.0,PayPal,Yes,No,No
+CUST0944,60,Female,North,54,Monthly,84.42,4558.68,2.0,Bank Transfer,No,No,No
+CUST0945,26,Male,North,3,Monthly,64.74,194.22,0.0,PayPal,Yes,Yes,Yes
+CUST0946,61,Female,West,2,Monthly,57.63,115.26,7.0,Credit Card,No,Yes,Yes
+CUST0947,57,Male,South,32,Monthly,34.95,1118.4,4.0,PayPal,Yes,No,Yes
+CUST0948,30,Female,North,65,Annual,,,,,Yes,Yes,No
+CUST0949,43,Male,East,25,Two-Year,75.42,1885.5,3.0,Credit Card,Yes,No,No
+CUST0950,44,Female,South,29,Monthly,82.3,2386.7,8.0,Bank Transfer,Yes,No,Yes
+CUST0951,25,Female,East,36,Two-Year,112.51,4050.36,3.0,Bank Transfer,Yes,Yes,No
+CUST0952,20,Male,North,42,Monthly,81.37,3417.54,1.0,Bank Transfer,Yes,No,No
+CUST0953,49,Female,East,39,Monthly,106.96,4171.44,8.0,Credit Card,No,No,Yes
+CUST0954,65,Female,East,31,Annual,47.3,1466.3,6.0,Credit Card,Yes,Yes,No
+CUST0955,58,Male,North,25,Monthly,77.95,1948.75,1.0,Credit Card,No,No,No
+CUST0956,64,Female,South,69,Annual,25.7,1773.3,22.0,Bank Transfer,No,No,No
+CUST0957,41,Female,North,56,Monthly,74.47,4170.32,8.0,Credit Card,Yes,No,Yes
+CUST0958,62,Male,East,6,Two-Year,27.9,167.4,3.0,PayPal,No,No,Yes
+CUST0959,61,Male,South,57,Annual,69.94,3986.58,6.0,Bank Transfer,No,Yes,Yes
+CUST0960,29,Male,South,28,Annual,21.15,592.2,8.0,Bank Transfer,No,No,No
+CUST0961,32,Female,East,71,Monthly,49.11,3486.81,8.0,Credit Card,No,Yes,Yes
+CUST0962,58,Male,East,18,Monthly,122.78,2210.04,3.0,Credit Card,Yes,Yes,No
+CUST0963,59,Female,East,42,Monthly,111.71,4691.82,8.0,Bank Transfer,Yes,No,Yes
+CUST0964,57,Female,East,8,Annual,21.35,170.8,5.0,Credit Card,No,Yes,Yes
+CUST0965,34,Male,North,49,Two-Year,53.45,2619.05,8.0,Credit Card,No,Yes,No
+CUST0966,38,Female,South,51,Monthly,50.12,2556.12,6.0,Bank Transfer,Yes,No,Yes
+CUST0967,23,Female,South,59,Monthly,132.11,7794.49,3.0,PayPal,No,Yes,No
+CUST0968,59,Female,North,40,Monthly,43.11,1724.4,6.0,PayPal,Yes,Yes,Yes
+CUST0969,27,Male,West,32,Monthly,103.87,3323.84,6.0,Credit Card,Yes,Yes,Yes
+CUST0970,56,Male,West,50,Monthly,127.45,6372.5,0.0,Credit Card,Yes,Yes,Yes
+CUST0971,35,Male,North,2,Two-Year,33.82,67.64,5.0,PayPal,Yes,Yes,No
+CUST0972,26,Female,West,21,Monthly,82.26,1727.46,3.0,Credit Card,No,Yes,No
+CUST0973,19,Male,North,70,Monthly,86.5,6055.0,6.0,Credit Card,Yes,Yes,No
+CUST0974,19,Male,West,50,Monthly,,,,,No,Yes,Yes
+CUST0975,49,Male,North,29,Monthly,,,,,No,Yes,Yes
+CUST0976,41,Male,North,20,Monthly,88.96,1779.2,2.0,PayPal,No,Yes,Yes
+CUST0977,60,Female,East,45,Two-Year,55.24,2485.8,7.0,PayPal,No,No,No
+CUST0978,69,Male,North,20,Annual,39.06,781.2,2.0,Bank Transfer,No,No,Yes
+CUST0979,70,Male,North,55,Two-Year,56.2,3091.0,1.0,Bank Transfer,Yes,Yes,No
+CUST0980,67,Female,East,41,Monthly,82.57,3385.37,6.0,PayPal,No,Yes,No
+CUST0981,69,Male,West,54,Annual,90.04,4862.16,7.0,PayPal,Yes,No,No
+CUST0982,23,Female,South,12,Monthly,20.37,244.44,0.0,Bank Transfer,No,Yes,No
+CUST0983,25,Male,East,47,Two-Year,132.68,6235.96,2.0,Bank Transfer,No,Yes,No
+CUST0984,53,Female,South,27,Two-Year,27.26,736.02,2.0,Credit Card,Yes,No,No
+CUST0985,64,Male,West,48,Monthly,33.78,1621.44,1.0,Bank Transfer,Yes,Yes,No
+CUST0986,27,Female,South,11,Monthly,21.62,237.82,6.0,Credit Card,Yes,No,Yes
+CUST0987,65,Male,East,61,Monthly,,,,,Yes,Yes,No
+CUST0988,21,Male,South,65,Monthly,71.53,4649.45,6.0,PayPal,No,No,Yes
+CUST0989,54,Female,South,55,Two-Year,55.34,3043.7,1.0,PayPal,No,Yes,No
+CUST0990,65,Male,West,140,Monthly,43.88,351.04,8.0,PayPal,Yes,No,Yes
+CUST0991,48,Female,West,49,Monthly,124.43,6097.07,6.0,Credit Card,No,Yes,No
+CUST0992,24,Male,East,43,Monthly,56.69,2437.67,8.0,Credit Card,Yes,Yes,No
+CUST0993,56,Male,East,25,Annual,102.99,2574.75,0.0,Credit Card,No,Yes,Yes
+CUST0994,54,Male,West,6,Monthly,32.12,192.72,4.0,Credit Card,No,No,Yes
+CUST0995,43,Male,East,51,Annual,146.6,7476.6,1.0,Bank Transfer,No,Yes,No
+CUST0996,50,Male,North,49,Monthly,132.95,6514.55,0.0,Bank Transfer,Yes,Yes,Yes
+CUST0997,61,Female,North,12,Two-Year,50.1,601.2,3.0,PayPal,Yes,Yes,No
+CUST0998,50,Female,West,17,Monthly,66.84,1136.28,6.0,Credit Card,No,Yes,Yes
+CUST0999,31,Male,South,64,Monthly,21.94,1404.16,4.0,PayPal,Yes,No,No
+CUST1000,24,Female,East,22,Two-Year,40.99,901.78,4.0,PayPal,No,No,No
+CUST0522,46,Female,North,43,Monthly,,,,,No,No,No
+CUST0738,69,Female,East,17,Monthly,,,,,Yes,No,No
+CUST0741,51,Male,East,60,Monthly,350.0,,,,Yes,Yes,Yes
+CUST0661,29,Female,South,4,Monthly,,,,,No,No,Yes
+CUST0412,68,Male,West,33,Annual,,,,,No,No,No
+CUST0679,53,Female,East,55,Monthly,,,,,No,Yes,No
+CUST0627,42,Male,North,61,Annual,,,,,Yes,No,No
+CUST0514,65,Male,West,7,Monthly,,,,,Yes,No,Yes
+CUST0860,33,Female,South,26,Monthly,,,,,Yes,Yes,Yes
+CUST0137,55,Male,East,65,Monthly,,,,,No,No,No
+CUST0812,58,Female,North,11,Two-Year,,,,,Yes,Yes,No
+CUST0077,36,Female,West,10,Annual,,,,,Yes,Yes,No
+CUST0637,62,Male,North,43,Annual,,,,,Yes,No,No
+CUST0974,19,Male,West,50,Monthly,,,,,No,Yes,Yes
+CUST0939,40,Male,West,46,Monthly,,,,,Yes,No,Yes
+CUST0900,23,Female,South,9,Annual,,,,,No,Yes,Yes
+CUST0281,46,Female,North,55,Monthly,,,,,No,Yes,No
+CUST0884,62,Female,West,40,Annual,,,,,No,Yes,Yes
+CUST0762,28,Male,South,47,Monthly,,,,,No,Yes,Yes
+CUST0320,29,Male,East,29,Monthly,,,,,No,No,Yes
